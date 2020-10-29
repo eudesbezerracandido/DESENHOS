@@ -9,3 +9,11 @@ DESENHOS INFANTIS
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Os espectadores de todo o mundo vão voltar a se divertir com os seres azuis e a chegada dos Smurfs ao cinema 3D na comédia para a família da Columbia Pictures/Sony Pictures Animation, misturando live-action e animação, The Smurfs. Quando o mago malvado Gargamel expulsa os pequenos seres azuis da sua vila, eles rolam do seu mundo mágico e caem no nosso – mais precisamente, bem no meio do Central Park de Nova York. Os Smurfs precisam encontrar um jeito de voltar para a vila antes que Gargamel os localize.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] FUGA DAS GALINHAS [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcfc62a889de5235c4dbc6b49eefdf6f1c4e845f&dn=A+Fuga+Das+Galinhas+%282000%29+BRrip+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://i.pinimg.com/564x/38/45/e9/3845e946db3c7e4d32514db4c9a5efe4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Sra. Tweedy (Miranda Richardson/Nádia Carvalho) é a dona de um galinheiro no interior da Inglaterra, onde a maior parte das aves vive uma vida curta e monótona, limitada a produzir ovos e terminar na panela. Mas quando Rocky (Mel Gibson/ Dário de Castro), um galo vindo dos Estados Unidos surge voando por cima da cerca da Granja, as coisas começam a mudar. Rocky se apaixona por Ginger (Julia Sawalha/Miriam Ficher), que sonha com uma vida melhor e já há algum tempo deseja fugir da granja. Juntos os dois arquitetam um plano para conseguir liberdade. No entanto, Rocky e Ginger logo se vêem correndo contra o tempo quando a Sra. Tweedy decide que é hora de mandar a granja inteira para a o forno.</info>
+</item>
