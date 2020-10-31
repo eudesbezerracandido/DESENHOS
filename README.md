@@ -84,4 +84,4 @@ Rei Leão 3: Esta versão de “O Rei Leão” é explorada do ponto de vista de
 <thumbnail>https://www.animeserie.com/product_images/r/280/pernalonga_e_sua_turma__23707_zoom.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Pernalonga e sua Turma ou simplesmente Looney Tunes, é uma série clássica animada que reúne histórias de diversos personagens como Patolino, Pernalonga, Hortelino, e muitos outros. Cada episódio é sempre uma história nova, repleta de humor e de personagens fora do normal.</info>
-</item>
+</item> 
