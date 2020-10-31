@@ -77,3 +77,11 @@ Rei Leão 3: Esta versão de “O Rei Leão” é explorada do ponto de vista de
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Agora Pernalonga e sua turma abandonam as florestas para morarem nos subúrbios da Califórnia. Aos poucos, em meios á piadas sobre a sociedade moderna e seus hábitos, eles vão aprendendo que viver na cidade grande é tão difícil quanto seu modo de vida primitivo anterior.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] LOONEY TUNES - PERNALONGA E SUA TURMA 1930 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3800dc3f62cf3a8e7d24e601103db4c1b397bbef&dn=Pernalonga+e+Sua+Turma+Completo+AVI+Dublado+227+Ep.&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://www.animeserie.com/product_images/r/280/pernalonga_e_sua_turma__23707_zoom.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Pernalonga e sua Turma ou simplesmente Looney Tunes, é uma série clássica animada que reúne histórias de diversos personagens como Patolino, Pernalonga, Hortelino, e muitos outros. Cada episódio é sempre uma história nova, repleta de humor e de personagens fora do normal.</info>
+</item>
