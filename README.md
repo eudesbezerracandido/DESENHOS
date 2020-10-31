@@ -2,6 +2,7 @@
 DESENHOS INFANTIS
 
 <item>
+<item>
 <title>[COLOR silver][B] OS SMURFS 1 2 & 3 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:954EEB3FA151CB9EB6D8D01D88D64B9EFA96FFA6&dn=Duologia%20Os%20Smurfs%202011-2013%20%28720p%29%20DUBLADO&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:988111EAC31EAF6769AB97585B96F7B743F4D310&dn=Os%20Smurfs%20e%20a%20Vila%20Perdida%202017%20%5bBluRay%5d%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
@@ -93,3 +94,5 @@ Rei Leão 3: Esta versão de “O Rei Leão” é explorada do ponto de vista de
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Saint Seiya, conhecido nos países lusófonos como Os Cavaleiros do Zodíaco, é uma série japonesa de mangá, escrita e ilustrada por Masami Kurumada, publicada na revista Weekly Shonen Jump de 1986 a 1991 e adaptada para anime pela Toei Animation de 1986 a 1989. A história mostra cinco guerreiros místicos chamados de “Cavaleiros” (ou “Saints” no original) que lutam vestindo “Armaduras” ( ou “Cloths” ) sagradas baseadas nas diversas constelações que protegem cada um dos guerreiros. Os Cavaleiros têm como missão defender a reencarnação da deusa grega Atena em sua batalha contra outros deuses do Olimpo que pretendem dominar a Terra.</info>
 </item> 
+
+
