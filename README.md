@@ -79,9 +79,9 @@ Rei Leão 3: Esta versão de “O Rei Leão” é explorada do ponto de vista de
 </item>
 
 <item>
-<title>[COLOR silver][B] TOM & JERRY COLECTION [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:557CC6B5755CBBE3A7320B11C6A3303FA352D143</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71IwQbMHkeL._AC_SY550_.jpg</thumbnail>
+<title>[COLOR silver][B] CAVALEIROS DO ZODIACOS - TORNEIO GALATICO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11C4A7CD2DD356E2E0F4E40E194C3CD42B08A839&dn=Os.Cavaleiros.do.Zod%c3%adaco.Saga.Torneio.Gal%c3%a1ctico.1986-1989.1080p.Dual-WOLVERDONFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</link>
+<thumbnail>https://img.comunidades.net/dom/dominiofilmes/CDZ_GALACTICO.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Tom e Jerry é um desenho animado centrado nas tentativas frustradas de um gato chamado Tom em capturar Jerry, um ratinho muito esperto e engenhoso. Geralmente em todos os episódios acontecem eletrizantes perseguições, utilização de diversas armadilhas e truques.</info>
+<info>O Arco da Guerra Galáctica é o primeiro Arco da série Os Cavaleiros do Zodíaco e o primeiro Arco da Saga do Santuário. Neste Arco são apresentados os Cavaleiros, os conceitos do Cosmo, os personagens principais, bem como a introdução da historia de Atena. Dez garotos retornam de sua jornada dos mais diversos lugares do mundo trazendo consigo as lendárias Armaduras dos Cavaleiros de Atena (Armaduras de Bronze). Deu-se início a maior batalha de toda a história do mundo – a Guerra Galáctica – para escolher, entre esses 10 garotos, o merecedor da mais poderosa das Armaduras, a Armadura de Ouro. Entretanto, com aparição de Fênix e seus Cavaleiros Negros, a verdadeira batalha pela posse da Armadura de Ouro só está começando.</info>
 </item>
