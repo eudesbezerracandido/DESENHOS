@@ -93,6 +93,6 @@ Rei Leão 3: Esta versão de “O Rei Leão” é explorada do ponto de vista de
 <thumbnail>https://www.trocafigurinhas.com/Imagens/Albuns/1156Full.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Saint Seiya, conhecido nos países lusófonos como Os Cavaleiros do Zodíaco, é uma série japonesa de mangá, escrita e ilustrada por Masami Kurumada, publicada na revista Weekly Shonen Jump de 1986 a 1991 e adaptada para anime pela Toei Animation de 1986 a 1989. A história mostra cinco guerreiros místicos chamados de “Cavaleiros” (ou “Saints” no original) que lutam vestindo “Armaduras” ( ou “Cloths” ) sagradas baseadas nas diversas constelações que protegem cada um dos guerreiros. Os Cavaleiros têm como missão defender a reencarnação da deusa grega Atena em sua batalha contra outros deuses do Olimpo que pretendem dominar a Terra.</info>
-</item>  
+</item>   
 
 
