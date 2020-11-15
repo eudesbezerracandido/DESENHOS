@@ -259,4 +259,14 @@ Rei Leão 3: Esta versão de “O Rei Leão” é explorada do ponto de vista de
 <info>O anime conta a história de dois amigos chamados: Shurato Hidaka e Gae Kuroki. Eles estavam participando de um torneio de artes marciais no nosso mundo quando são transportados pela Deusa Vishinu para o Mundo Celestial. Lá, Shurato conhece Rakesh e seu bichinho Mi e se dirigem ao palácio da Deusa. Chegando lá, garoto descobre que é a reencarnação do Rei Shura, um dos oito Guardiões Celestiais e seu amigo Gae foi dominado pelas forças das trevas, transformando-se no terrível Rei Yasha. À noite, Mestre Hindra, fiel servo de Vishinu, a transforma em pedra e Shurato é considerado o culpado. Hyouga, Ryuma e Leiga descobrem a verdade e ajudam o Rei Shura a fugir e tentar salvar sua Deusa. Mas contra eles, além de Gae, estão os outros três guardiões Dan, Lengue e Kenya.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O HOMEM ARANHA COMPLETO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3bed0be8ef569177c39f598ed69c69025c0d261&dn=Homem+Aranha+Classico+TAS+em+AVI&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://1.bp.blogspot.com/-SGsHkfV7tT0/WrlDF7IKROI/AAAAAAAAE7Y/LduTunYO3xITZ-gp7meLN4luTD5ToJxtgCLcBGAs/s1600/The_Sepctacular_Spider-Man.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1994 foi lançada na TV americana esta nova série animada que é considerada por muitos como a melhor do personagem até hoje. Foram 65 episódios muitíssimo fiés às HQs e que transportavam para a tela histórias que todos os fãs eram capazes de reconhecer de sua coleção de revistas. Além disso, a animação misturava, em certos momentos, desenhos em duas e três dimensões, o que não deixava de ser uma novidade para a época.Um dos grandes trunfos de The Animated Series é que, além de se manter fiél a base dos quadrinhos, usou todos os grandes inimigos do Homem-Aranha, desde os antigos até os mais recentes, como Venom e Duende Macabro, por exemplo. Além dos grandes vilões, a série também teve a participação de outros super-heróis da Marvel como o Capitão América, Demolidor, Justiceiro entre outros. A produção desta animação era da Marvel Media, comandada na época por Avi Arad, o atual produtor dos filmes do Homem-Aranha. O cuidado foi total, e até mesmo Stan Lee participou como revisor.</info>
+</item>
+
+
+
 
