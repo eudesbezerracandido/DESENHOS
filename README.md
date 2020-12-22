@@ -80,22 +80,6 @@ Rei Leão 3: Esta versão de “O Rei Leão” é explorada do ponto de vista de
 </item>
 
 <item>
-<title>[COLOR silver][B] CAVALEIROS DO ZODIACOS - TORNEIO GALATICO [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11C4A7CD2DD356E2E0F4E40E194C3CD42B08A839&dn=Os.Cavaleiros.do.Zod%c3%adaco.Saga.Torneio.Gal%c3%a1ctico.1986-1989.1080p.Dual-WOLVERDONFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</link>
-<thumbnail>https://img.comunidades.net/dom/dominiofilmes/CDZ_GALACTICO.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O Arco da Guerra Galáctica é o primeiro Arco da série Os Cavaleiros do Zodíaco e o primeiro Arco da Saga do Santuário. Neste Arco são apresentados os Cavaleiros, os conceitos do Cosmo, os personagens principais, bem como a introdução da historia de Atena. Dez garotos retornam de sua jornada dos mais diversos lugares do mundo trazendo consigo as lendárias Armaduras dos Cavaleiros de Atena (Armaduras de Bronze). Deu-se início a maior batalha de toda a história do mundo – a Guerra Galáctica – para escolher, entre esses 10 garotos, o merecedor da mais poderosa das Armaduras, a Armadura de Ouro. Entretanto, com aparição de Fênix e seus Cavaleiros Negros, a verdadeira batalha pela posse da Armadura de Ouro só está começando.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SAGA- DOS CAVALEIROS DE PRATA PARTE 1 [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C6C6E18ED106063B41CC5EFB2B71DBC92FCAA46&dn=Os.Cavaleiros.do.Zod%C3%ADaco.Saga.Cavaleiros.de.Prata.1986-1989.1080p.Dual.Parte.1-WOLVERDONFILMES.COM&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-<thumbnail>https://www.trocafigurinhas.com/Imagens/Albuns/1156Full.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Saint Seiya, conhecido nos países lusófonos como Os Cavaleiros do Zodíaco, é uma série japonesa de mangá, escrita e ilustrada por Masami Kurumada, publicada na revista Weekly Shonen Jump de 1986 a 1991 e adaptada para anime pela Toei Animation de 1986 a 1989. A história mostra cinco guerreiros místicos chamados de “Cavaleiros” (ou “Saints” no original) que lutam vestindo “Armaduras” ( ou “Cloths” ) sagradas baseadas nas diversas constelações que protegem cada um dos guerreiros. Os Cavaleiros têm como missão defender a reencarnação da deusa grega Atena em sua batalha contra outros deuses do Olimpo que pretendem dominar a Terra.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] BOB ESPONJA - O INCRIVEL RESGATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:840f44334831541e2fa79eade6dfac74338c6463&dn=COMOEUBAIXO.COM..WEB-DL.MKV.-DUBLADO-DUAL-AUDIO-..COMANDO.TO%20-%20Bob%20Esponja%20O%20Incr%c3%advel%20Resgate%202020%20%5b1080p%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/0a/The_SpongeBob_Movie-_Sponge_on_the_Run_poster.jpg</thumbnail>
@@ -211,6 +195,23 @@ Rei Leão 3: Esta versão de “O Rei Leão” é explorada do ponto de vista de
 <info>Em 1994 foi lançada na TV americana esta nova série animada que é considerada por muitos como a melhor do personagem até hoje. Foram 65 episódios muitíssimo fiés às HQs e que transportavam para a tela histórias que todos os fãs eram capazes de reconhecer de sua coleção de revistas. Além disso, a animação misturava, em certos momentos, desenhos em duas e três dimensões, o que não deixava de ser uma novidade para a época.Um dos grandes trunfos de The Animated Series é que, além de se manter fiél a base dos quadrinhos, usou todos os grandes inimigos do Homem-Aranha, desde os antigos até os mais recentes, como Venom e Duende Macabro, por exemplo. Além dos grandes vilões, a série também teve a participação de outros super-heróis da Marvel como o Capitão América, Demolidor, Justiceiro entre outros. A produção desta animação era da Marvel Media, comandada na época por Avi Arad, o atual produtor dos filmes do Homem-Aranha. O cuidado foi total, e até mesmo Stan Lee participou como revisor.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ERA UMA VEZ UM BONECO DE NEVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a280922239127fe3540479ce35fad5ce4a278b9f</link>
+<thumbnail>https://static.wikia.nocookie.net/disney/images/1/14/Era_Uma_Vez_um_Boneco_de_Neve.jpg/revision/latest/scale-to-width-down/340?cb=20201025161737&path-prefix=pt-br</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os primeiros passos de Olaf conforme ele ganha vida e busca sua identidade nas montanhas nevadas dos arredores de Arendelle.
+Enredo: Olaf seus primeiros passos como ele vem a vida e procura a sua identidade nas montanhas nevadas fora Arendelle.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9fc38b38ffbc806c9de4cc847c081f8532fa00e</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/18/03/28/22/03/5851158.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Maya é uma abelhinha muito querida, ela e seu melhor amigo, Willy, estão a procura de diversão. Um dia, acidentalmente, ela surpreende de maneira negativa a Imperatriz de Buzztropolis, como consequência, é forçada a participar dos Jogos de Mel e assim salvar sua colmeia. Na competição, a abelhinha irá conhecer novos amigos, além de adversários extremamente habilidosos, e enfrentar situações inéditas e desafiadoras.
+Enredo: Quando um Maya overenthusiastic acidentalmente embaraça a Imperatriz da Buzztropolis, ela é forçada a se unir com uma equipe de bugs desajuste e competir nos Jogos de mel para uma chance de salvar sua colmeia.</info>
+</item>
 
 
 
