@@ -231,5 +231,24 @@ Enredo: Anna, Elsa, Kristoff, Olaf e Sven deixar Arendelle viajar para uma antig
 Enredo: Depois que um acidente de concerto leva Dave para o hospital, Alvin, Simon e Theodore acabam tomando conta do primo de vinte e poucos anos de Dave, Toby. Quando os Chipmunks deixam de lado seu estrelato para voltar à escola para ganhar uma competição anual “Battle of the Bands” para salvar o programa de música da escola. Mas os garotos encontram sua partida com os Chipettes, Brittany, Jeanette e Eleanor, que estão trabalhando para o ex-empresário de Chipmunks, Ian Hawke. Faíscas românticas e acidentes malucos acontecem quando os Esquilos e as Chipettes se</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] LEGO STAR WARS - ESPECIAL DE FESTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f8f933b69b32838e76a8a1f9d5e25145090d74f</link>
+<thumbnail>https://cosmonerd.com.br//uploads/2020/11/cosmo-disneyplus-swlego-especial-1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Rey, Finn, Poe, Chewie, Rose e todos os seus droides favoritos, de R2-D2 a BB-8 , estão reunidos para uma festa alegre no Dia da Vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SCOOBY-DOO! HALLOWEEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08b4640b7555af1206c3258b346f263d9389db39</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMDBhYjdhYzUtMjk1OS00OGM2LWExZWUtYWU2ZDVlZjBlMmYzXkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_UY1200_CR119,0,630,1200_AL_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Scooby-Doo e sua turma se unem a seus amigos, Bill Nye The Science Guy e Elvira Mistress of the Dark, para resolver esse mistério de proporções gigantescas e salvar Crystal Cove!
+Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos monstros e uma abundância de doces – Halloween é o paraíso para esses foodies famintos porta-a-porta indo. Mas, este ano, suas voltas de férias sour quando o remendo da abóbora bairro está infectado por lodo tóxico, criando-voando alto jack-o-lanternas, e um líder abóbora king-size esmagando tudo em seu caminho. Cabe a Scooby-Doo e sua turma como eles juntar-se com seus amigos, Bill Nye The Science Guy e Elvira Mistress of the Dark, para resolver este mistério de proporções gigantescas e salvar Crystal Cove!</info>
+</item>
+
+
+
 
 
