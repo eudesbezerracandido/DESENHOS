@@ -205,7 +205,7 @@ Enredo: Olaf seus primeiros passos como ele vem a vida e procura a sua identidad
 </item>
 
 <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] A ABELHINHA MAYA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9fc38b38ffbc806c9de4cc847c081f8532fa00e</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/18/03/28/22/03/5851158.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -216,7 +216,7 @@ Enredo: Quando um Maya overenthusiastic acidentalmente embaraça a Imperatriz da
 <item>
 <title>[COLOR silver][B]  FROZEN  2  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b32c3e984b7baa86aed2cbcecb024e898d2c2e4</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/4/4f/Frozen_2_poster.jpg/250px-Frozen_2_poster.jpg</thumbnail>
+<thumbnail>https://i.pinimg.com/564x/77/21/f6/7721f6b8d66e2fdc135ea9364a149023.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do pai, quando ainda era príncipe de Arendelle. Ele conta às meninas a história de uma visita à floresta dos elementos, onde um acontecimento inesperado teria provocado a separação dos habitantes da cidade com os quatro elementos fundamentais: ar, fogo, terra e água. Esta revelação ajudará Elsa a compreender a origem de seus poderes.
 Enredo: Anna, Elsa, Kristoff, Olaf e Sven deixar Arendelle viajar para uma antiga floresta, outono-bound de uma terra encantada. Eles partem para encontrar a origem dos poderes de Elsa, a fim de salvar seu reino.</info>
