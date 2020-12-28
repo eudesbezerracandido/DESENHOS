@@ -256,6 +256,15 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info>No filme Soul Torrent – WEB-DL 1080p Dual Áudio, O que é que o torna… VOCÊ? Joe Gardner – um professor de música do ensino fundamental – tem a chance de tocar no melhor clube de jazz da cidade. Mas um pequeno passo em falso o leva das ruas de Nova York para o Pré-vida – um lugar fantástico onde novas almas obtêm suas personalidades, peculiaridades e interesses antes de irem para a Terra.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] OS CRODDS 1 & 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:849009666A1F7A842A0488CE87965BF116557F0A&dn=os+croods+2013+dublado+bdrip+720p+mhds.baixedetudo.net&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:172609ea1e5aacbbb92dd20209e08327d16a4868&dn=The.Croods.A.New.Age.2020.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+<thumbnail>https://cinema10.com.br/upload/filmes/filmes_6020_croods2_5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No filme Os Croods 2: Uma Nova Era Torrent – WEB-DL 720p/1080p Legendado, Os Croods 2: Uma Nova Era é uma aventura sobre uma família pré-histórica que descobre as transformações no mundo enquanto tenta permanecer unida.</info>
+</item>
+
 
 
 
