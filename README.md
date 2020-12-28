@@ -248,6 +248,14 @@ Enredo: Depois que um acidente de concerto leva Dave para o hospital, Alvin, Sim
 Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos monstros e uma abundância de doces – Halloween é o paraíso para esses foodies famintos porta-a-porta indo. Mas, este ano, suas voltas de férias sour quando o remendo da abóbora bairro está infectado por lodo tóxico, criando-voando alto jack-o-lanternas, e um líder abóbora king-size esmagando tudo em seu caminho. Cabe a Scooby-Doo e sua turma como eles juntar-se com seus amigos, Bill Nye The Science Guy e Elvira Mistress of the Dark, para resolver este mistério de proporções gigantescas e salvar Crystal Cove!</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SOUL - UMA AVENTURA COM ALMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SFRLTUT4JNYQJIT2TV65LV7R3BOEPELY&dn=Soul%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A1337%2Fannounce</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No filme Soul Torrent – WEB-DL 1080p Dual Áudio, O que é que o torna… VOCÊ? Joe Gardner – um professor de música do ensino fundamental – tem a chance de tocar no melhor clube de jazz da cidade. Mas um pequeno passo em falso o leva das ruas de Nova York para o Pré-vida – um lugar fantástico onde novas almas obtêm suas personalidades, peculiaridades e interesses antes de irem para a Terra.</info>
+</item>
+
 
 
 
