@@ -265,6 +265,15 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info>No filme Os Croods 2: Uma Nova Era Torrent – WEB-DL 720p/1080p Legendado, Os Croods 2: Uma Nova Era é uma aventura sobre uma família pré-histórica que descobre as transformações no mundo enquanto tenta permanecer unida.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ERA UMA VEZ UM BONECO DE NEVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a280922239127fe3540479ce35fad5ce4a278b9f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cCFaM11MfgWMdI2af5ZrtdPwTYA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O curta mostrará os primeiros passos de Olaf conforme ele ganha vida e busca sua identidade nas montanhas nevadas fora de Arendelle.</info>
+</item>
+
+
 
 
 
