@@ -266,7 +266,7 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 </item>
 
 <item>
-<title>[COLOR silver][B] BATMAN - ALMA DO DRAGÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] BATMAN - A ALMA DO DRAGÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c67f0b0f00e6e9bac17884d6fb97b0a903837674</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/23Y5tz5YnkRS4TZjWB8GlzJghY2.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
