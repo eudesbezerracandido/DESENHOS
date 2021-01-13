@@ -265,6 +265,15 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info>No filme Os Croods 2: Uma Nova Era Torrent – WEB-DL 720p/1080p Legendado, Os Croods 2: Uma Nova Era é uma aventura sobre uma família pré-histórica que descobre as transformações no mundo enquanto tenta permanecer unida.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] BATMAN - ALMA DO DRAGÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c67f0b0f00e6e9bac17884d6fb97b0a903837674</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/23Y5tz5YnkRS4TZjWB8GlzJghY2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Trata-se de uma história Elseworlds, ou seja, fora da cronologia principal, e o título deve ser “BATMAN: SOUL OF THE DRAGON“. Na trama, Batman irá investigar o misterioso desaparecimento do seu mestre de artes marciais. No entanto, quando um artefato amaldiçoado reaparece, o herói terá que enfrentar vilões como Tigre de Bronze, Lady Shiva e Richard Dragon para protegê-lo das mãos erradas. A ideia de Timm é dar destaque às habilidades de luta do Homem-Morcego.</info>
+</item>
+
+
 
 
 
