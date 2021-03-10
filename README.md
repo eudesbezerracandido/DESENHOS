@@ -281,6 +281,15 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info>Nesta sequência, a otimista Poppy e o totalmente rabugento Tronco vão se envolver em uma aventura maior ainda, que os levará para caminhos distantes e ainda desconhecidos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] RAYA E O ÚLTIMO DRAGÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OJFBKQJXM3K4BP7APKMZ7JTNMDS32GBB</link>
+<thumbnail>https://mickeyblog.com/wp-content/uploads/2021/02/raya-2.jpeg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Kumandra é um reino habitado por uma vasta e antiga civilização conhecida por ter passado gerações venerado os dragões, seus poderes e sua sabedoria. Porém, com as criaturas desaparecidas, a terra é tomada por uma força obscura. Quando uma guerreira chamada Raya, convencida de que a espécie não foi extinta, decide sair em busca do último dragão, sua aventura pode mudar o curso de todo o mundo.</info>
+</item>
+
+
 
 
 
