@@ -289,6 +289,15 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info> Kumandra é um reino habitado por uma vasta e antiga civilização conhecida por ter passado gerações venerado os dragões, seus poderes e sua sabedoria. Porém, com as criaturas desaparecidas, a terra é tomada por uma força obscura. Quando uma guerreira chamada Raya, convencida de que a espécie não foi extinta, decide sair em busca do último dragão, sua aventura pode mudar o curso de todo o mundo.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] BOMBAY ROSE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cwNcowNdKTawjwpV9nR2t2EZrFW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma animação cativante, que segue vários personagens, cada um conectado por uma única rosa vermelha, enquanto eles navegam a vida e o amor na metrópole indiana.</info>
+</item>
+
+
 
 
 
