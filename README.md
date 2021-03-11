@@ -297,6 +297,14 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info>Uma animação cativante, que segue vários personagens, cada um conectado por uma única rosa vermelha, enquanto eles navegam a vida e o amor na metrópole indiana.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SAPATINHO VERMELHO E OS SETE ANÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eqrSjDbIN4beOs7BwpZJNM3OpBr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nesta releitura do famoso conto da Branca de Neve, o beijo da princesa de sapatos vermelhos (Chloe Grace Moretz) é a única cura para os sete anões que, na verdade, são sete príncipes arrogantes. A disputa pelo beijo da princesa fará com que eles mudem suas visões de mundo e entendam o verdadeiro significado da beleza.</info>
+</item>
+
 
 
 
