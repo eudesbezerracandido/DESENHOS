@@ -305,6 +305,14 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info>Nesta releitura do famoso conto da Branca de Neve, o beijo da princesa de sapatos vermelhos (Chloe Grace Moretz) é a única cura para os sete anões que, na verdade, são sete príncipes arrogantes. A disputa pelo beijo da princesa fará com que eles mudem suas visões de mundo e entendam o verdadeiro significado da beleza.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] TOM & JERRY - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ff89f8eff0bc3afcb889c710f5d462b357c7714</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6KErczPBROQty7QoIsaa6wJYXZi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um gato de rua chamado Tom é contratado por uma garota chamada Kayla, uma jovem empregada que trabalha em um hotel glamouroso em Nova York, para se livrar de Jerry, um rato travesso que se mudou para o hotel, antes que ele seja a ruína de um importante casamento.</info>
+</item>
+
 
 
 
