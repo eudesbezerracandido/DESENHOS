@@ -321,6 +321,15 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info> Quando a Lexcorp acidentalmente liberta o assassino serial intergaláctico Doomsday, Superman enfrenta a criatura mano a mano na batalha de sua vida... literalmente. O mundo inteiro lamenta a queda do herói; a humanidade percebe que nunca mais se sentirá segura novamente. Os inimigos do Superman regozijam de felicidade - todos eles menos Lex Luthor, que lamenta a perda a sua maneira, desencadeando uma seqüência de fatos marcantes que nem mesmo ele poderia prever. Inspirado na graphic novel best-seller da DC Comics, A Morte do Superman, esta animação longa-metragem traz muita aventura em seqüências de ação que não encontram rivais em nada visto até hoje sobre o Homem de Aço.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COLEÇÃO - CAVERNA DO DRAGÃO  1983 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81F8C4AC8315F187561CFA70A5C39F78C8BC2C16</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dungeons & Dragons (promovida como Caverna do Dragão no Brasil) é uma série de animação co-produzida pela Marvel Productions, TSR, e Toei Animation. Baseada no homônimo RPG, possui 27 episódios e três temporadas, transmitidos originalmente entre os anos de 1983 e 1986 pela rede norte-americana de televisão CBS. A série conta a história de seis típicas crianças dos anos 80, que tentam voltar ao seu mundo após chegarem ao Reino de Dungeons & Dragons em um passeio de montanha russa.</info>
+</item>
+
+
 
 
 
