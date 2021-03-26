@@ -313,6 +313,15 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info>Um gato de rua chamado Tom é contratado por uma garota chamada Kayla, uma jovem empregada que trabalha em um hotel glamouroso em Nova York, para se livrar de Jerry, um rato travesso que se mudou para o hotel, antes que ele seja a ruína de um importante casamento.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A MORTE DO SUPERMAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ea56a254fac54f363d2a2797d542f8043ba3b8d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ecPlsaYUnBfFt01cTqhpPFtcxem.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando a Lexcorp acidentalmente liberta o assassino serial intergaláctico Doomsday, Superman enfrenta a criatura mano a mano na batalha de sua vida... literalmente. O mundo inteiro lamenta a queda do herói; a humanidade percebe que nunca mais se sentirá segura novamente. Os inimigos do Superman regozijam de felicidade - todos eles menos Lex Luthor, que lamenta a perda a sua maneira, desencadeando uma seqüência de fatos marcantes que nem mesmo ele poderia prever. Inspirado na graphic novel best-seller da DC Comics, A Morte do Superman, esta animação longa-metragem traz muita aventura em seqüências de ação que não encontram rivais em nada visto até hoje sobre o Homem de Aço.</info>
+</item>
+
+
 
 
 
