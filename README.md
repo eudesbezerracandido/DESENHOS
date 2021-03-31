@@ -65,9 +65,7 @@ DESENHOS INFANTIS
 <thumbnail>https://i.imgur.com/DJ7Bz8z.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Rei Leão 1: Mufasa, o Rei Leão, e a rainha Sarabi apresentam ao reino o herdeiro do trono, Simba. O recém-nascido recebe a bênção do sábio babuíno Rafiki, mas ao crescer é envolvido nas artimanhas de seu tio Scar, o invejoso e maquiavélico irmão de Mufasa, que planeja livrar-se do sobrinho e herdar o trono.
-
 Rei Leão 2: Kiara, a filha de Simba e herdeira do reino, desobedece o pai quando ele tenta impedi-la de se meter em confusões. Entretanto, Kiara acaba conhecendo Kovu e, juntos, se envolvem em algumas situações complicadas.
-
 Rei Leão 3: Esta versão de “O Rei Leão” é explorada do ponto de vista de Timão e Pumba e mostra como os dois se tornaram amigos. Quando Timão deixa sua colônia porque não consegue se entrosar, ele conhece o solitário Pumba. Em procura de um novo lar, se envolvem em aventuras e conhecem Simba, que está exilado e precisa lutar pela coroa de Rei Leão.</info>
 </item>
 
@@ -327,6 +325,22 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <thumbnail>https://www.themoviedb.org/t/p/original/qLWgJMJdtdCZWZVdQcFsAM5tZ5a.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Dungeons & Dragons (promovida como Caverna do Dragão no Brasil) é uma série de animação co-produzida pela Marvel Productions, TSR, e Toei Animation. Baseada no homônimo RPG, possui 27 episódios e três temporadas, transmitidos originalmente entre os anos de 1983 e 1986 pela rede norte-americana de televisão CBS. A série conta a história de seis típicas crianças dos anos 80, que tentam voltar ao seu mundo após chegarem ao Reino de Dungeons & Dragons em um passeio de montanha russa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OS CROODS  2  - UMA NOVA ERA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a08aecdbc6515b76f3dff9bbecf8d72017fef52</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vRTScutueW9gLF3dSo2Za7o0v7n.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após finalmente deixarem a caverna onde viviam, a família Crood esbarra na maior ameaça que encontraram desde então: uma outra família pré-histórica, os Bettermans. Os Croods 2: Uma Nova Era é uma aventura sobre uma família pré-histórica que descobre as transformações no mundo enquanto tenta permanecer unida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OCTONAUTAS E O CIRCULO DE FOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81d74ef8be0a615f5383b37b2f5c0a171bf84bd7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iYUhUSKWKpSBahaWLUQIPckAy8p.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Com vulcões em erupção desencadeando desastres por todo o oceano, os Octonautas se unem para enfrentar o maior desafio de todos.</info>
 </item>
 
 
