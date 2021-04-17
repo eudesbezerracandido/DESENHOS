@@ -351,6 +351,17 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info>Nesta aventura musical, o otimista Arlo sonha em conhecer o pai. Para encontrá-lo, ele deixa o pântano e vai para Nova York, fazendo muitos amigos pelo caminho.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SONHOS  S.A  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f868565d5e0a64f241025d344a31fc29e0eb9da</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dV9Ur1L7spy6irGNOlTWU5RG3b4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Minna é uma jovem que não sabe usar muito bem a sua recém descoberta capacidade de criar e controlar os sonhos de outras pessoas.</info>
+</item>
+
+
+
+
 
 
 
