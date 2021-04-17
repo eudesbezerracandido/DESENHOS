@@ -343,6 +343,16 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info> Com vulcões em erupção desencadeando desastres por todo o oceano, os Octonautas se unem para enfrentar o maior desafio de todos.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ARLO, MENINO JACARÉ  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e6a6792df2021dd283612a12eced516332d26f7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oOQMJM7G2W8v2AEK722k8welIJY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nesta aventura musical, o otimista Arlo sonha em conhecer o pai. Para encontrá-lo, ele deixa o pântano e vai para Nova York, fazendo muitos amigos pelo caminho.</info>
+</item>
+
+
+
 
 
 
