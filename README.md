@@ -357,6 +357,17 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info>Minna é uma jovem que não sabe usar muito bem a sua recém descoberta capacidade de criar e controlar os sonhos de outras pessoas.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SHAUN, O CARNEIRO- O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bc4f1b8e36c1389ad0a08da58bf766d7dcfabea</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uVr8U96Pbj7sLk9qX6EQ8s3eTin.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando um alienígena travesso e adorável com incríveis poderes cai perto da fazenda, Shaun tenta ajuda-lo mandando o visitante intergalático de volta para casa antes que uma organização sinistra possa capturá-lo, e assim começará uma divertida aventura.</info>
+</item>
+
+
+
+
 
 
 
