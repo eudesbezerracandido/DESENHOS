@@ -373,6 +373,16 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info>Esta é uma história sobre Riches to Rags, ex-ator infantil que vive em Monte Carlo ... seu 1998 Chevrolet Monte Carlo com um pit bull, que tem um problema cardíaco, que recentemente resgatou Billy.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] DIN E O DRAGÃO GENIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db0d51fa9b64d4cf917bebae10dcfaa265e99e9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ySpuOH05bQXXhmQmJtatbZ86rEy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma releitura moderna do clássico "Gênio na Garrafa" de 1001 Noites. O núcleo da história nos lembra que as coisas mais importantes da vida - trabalho duro, honestidade, amigos e família - não podem ser desejadas.</info>
+</item>
+
+
+
 
 
 
