@@ -365,6 +365,17 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info> Quando um alienígena travesso e adorável com incríveis poderes cai perto da fazenda, Shaun tenta ajuda-lo mandando o visitante intergalático de volta para casa antes que uma organização sinistra possa capturá-lo, e assim começará uma divertida aventura.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] ENCRENCÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OJYCGX66PPKIQYP6Q5NCZ3GQAEARGXTC</link>
+<thumbnail>https://lh3.googleusercontent.com/proxy/ejjEtvn340F8HoW67jPVwQI1T000m3P8NjbhiiDdcXwyvJNRZCp1xlyLdp4lXn9Vn8f57vpI6jVQdQ1dnFVrUchiAtNHsEGwJTXM9umBBFPLkwIuCt7ayhHvvk1o661VsYyr6-eqG16T5FB1</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Esta é uma história sobre Riches to Rags, ex-ator infantil que vive em Monte Carlo ... seu 1998 Chevrolet Monte Carlo com um pit bull, que tem um problema cardíaco, que recentemente resgatou Billy.</info>
+</item>
+
+
+
+
 
 
 
