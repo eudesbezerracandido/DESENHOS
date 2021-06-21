@@ -381,6 +381,17 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info>Uma releitura moderna do clássico "Gênio na Garrafa" de 1001 Noites. O núcleo da história nos lembra que as coisas mais importantes da vida - trabalho duro, honestidade, amigos e família - não podem ser desejadas.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] LUCA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e88d7e02bf184aab8760055ee01b2c64166ac5f7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1lk7QISmTam2iOzzUAQYs6voeFg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na Rivera Italiana, Luca vive aventuras com seu novo melhor amigo, mas a diversão é ameaçada por um segredo: seu amigo é um monstro marinho de outro mundo que fica abaixo da superfície da água. A história de um menino e seu amigo que parecem completamente humanos e normais quando estão fora d’água, mas na verdade são criaturas marinhas misteriosas. Suas vidas começam a mudar quando eles fazem amizade com uma jovem na superfície.</info>
+</item>
+
+
+
+
 
 
 
