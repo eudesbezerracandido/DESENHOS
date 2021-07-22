@@ -397,6 +397,14 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info>Há 1000 anos atrás, Arago tentou dominar o mundo utilizando as forças da escuridão. Porém foi derrotado e expurgado com a armadura do sol Hariel e a deusa do sol Amaterasu. 600 anos depois, em meio a guerra civil japonesa, os portões do mundo inferior surgem em nosso mundo, e mais uma vez Arago tenta dominar para si o mundo. Mais uma vez ele falha, tendo sido derrotado pelo monge Kaos, o qual prende o vilão em uma dimensão mais uma vez. Porém a armadura negra de Arago ficou em seu mundo, e preocupado com o fato de Arago pudesse voltar através dela, Kaos resolve enterrá-la e a divide em 9 armaduras. Cada uma dessas armaduras está ligada à natureza da virtude humana e ao código Bushido dos samurais. Tais armaduras são espalhadas pelo mundo. Alguns homens encontram essas armaduras e se empossam delas, por seus espíritos regerem a virtude da qual a armadura está ligada. Porém aos poucos Arago foi seduzindo para o seu lado 4 portadores das armaduras criadas por Kaos. As outras 5 armaduras são encontradas os jovens espirituosos, que recebem orientações de Kaos sobre a missão que viriam a enfrentar em breve.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] CAÇADORES DE TROLLS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02b6e507162e18835e5b82f456878b0014bb1cad</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Caçadores de Trolls: Contos de Arcadia terá um filme para finalizar a história vista nas três partes da série.Na trama, os heróis de Caçadores de Trolls, Os 3 lá Embaixo, e Magos vão se juntar para lutar contra a Ordem Arcane pelo controle da mágica.</info>
+</item>
+
 
 
 
