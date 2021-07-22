@@ -398,7 +398,7 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 </item>
 
 <item>
-<title>[COLOR silver][B] CAÇADORES DE TROLLS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] CAÇADORES DE TROLLS- A ASCENSÃO DOS TITÃS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02b6e507162e18835e5b82f456878b0014bb1cad</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
