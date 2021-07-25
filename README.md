@@ -405,6 +405,16 @@ Enredo: do Scooby-Doo e Salsicha feriado favorito é em cima de nós! Com falsos
 <info>Caçadores de Trolls: Contos de Arcadia terá um filme para finalizar a história vista nas três partes da série.Na trama, os heróis de Caçadores de Trolls, Os 3 lá Embaixo, e Magos vão se juntar para lutar contra a Ordem Arcane pelo controle da mágica.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] MESTRES DO UNIVERSO - SALVANDO ETERNIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d659482ff17071a355b846b469a39adc066a65f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2atC8jd6uINWIQedu7Pk25OV6aF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma história original baseada no mundo da franquia de brinquedos "He-Man", da era clássica dos anos 80, da Mattel. - Anime original Netflix. A série será animada pela Powerhouse Animation, estúdio por trás de Castlevania.</info>
+</item>
+
+
+
 
 
 
