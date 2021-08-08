@@ -1,7 +1,18 @@
 # DESENHOS
 DESENHOS INFANTIS
 
+
+
+
+
 <item>
+<title>[COLOR silver][B] A JORNADA DE VIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71086bbf3c5fdd7798071a194a152b172cfc27c5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qNxZ40JG87gsSy8t1k1uGFmHCvM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um macaco com sede de aventura - e paixão pela música - embarca em uma viagem traiçoeira de Havana à Miami para cumprir seu destino.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] OS SMURFS 1 2 & 3 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:954EEB3FA151CB9EB6D8D01D88D64B9EFA96FFA6$nome=OS SMURFS 1 & 2</link>
