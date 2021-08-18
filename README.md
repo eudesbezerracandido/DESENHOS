@@ -2,8 +2,13 @@
 DESENHOS INFANTIS
 
 
-
-
+<item>
+<title>[COLOR silver][B] PEDRO COELHO  2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39f00e9023c88983fec93037d566dc68a3cee5c7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pxdSJCpqMOp3gakScrzHgGDEvVr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em Pedro Coelho 2: O Fugitivo, o adorável trapaceiro está de volta. Bea, Thomas e os coelhos criaram uma família improvisada, mas apesar de seus melhores esforços, Pedro não parece se abalar com sua reputação travessa. Aventurando-se para além do jardim, Pedro encontra-se em um mundo onde suas travessuras não são mais tão admiradas. E quando sua família arrisca tudo para procurá-lo, Pedro deve decidir que tipo de coelho ele quer ser.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A JORNADA DE VIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
