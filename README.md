@@ -2,8 +2,19 @@
 DESENHOS INFANTIS
 
 
+
+
+
 <item>
-<title>[COLOR silver][B] PEDRO COELHO  2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] TEEN TITANS GO! SE SPACE JAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HFJNWSEEMKYCIVEPNLAOOBCYY6XZZ3CF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rMoVOCw6DF3zC6hS76ZhQMWiXNX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Teen Titans Go! See Space Jam, os Teen Titans são visitados pelos Nerdlucks, os icônicos vilões do Space Jam que tentaram escravizar Michael Jordan e os Looney Tunes. Surpreso ao descobrir que seus colegas Titãs nunca viram o Space Jam, Cyborg organiza um festa exclusiva para assistir o longa. Claro, se os Jovens Titãs estão assistindo a um filme, não espere que o silêncio valha a pena. Ravena e Estelar fazem os comentários, Cyborg apresenta os fatos divertidos, Mutano aponta as cenas estranhas e Robin … bem, Robin não confia em seus novos amigos alienígenas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PEDRO COELHO  2 - O FUGITIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39f00e9023c88983fec93037d566dc68a3cee5c7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pxdSJCpqMOp3gakScrzHgGDEvVr.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
