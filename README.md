@@ -1,9 +1,13 @@
 # DESENHOS
 DESENHOS INFANTIS
 
-
-
-
+<item>
+<title>[COLOR silver][B] SCOOBY! O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6856ABBE998BED8E206E7BEEBA6806D0F126AD4B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p7RjlzDLV4KksrWtyve1Rg40nLv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Scooby e sua turma enfrentam seu mistério mais desafiador: uma trama para libertar o cão fantasma Cerberus sobre o mundo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TEEN TITANS GO! SE SPACE JAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
