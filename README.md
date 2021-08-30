@@ -1,6 +1,15 @@
 # DESENHOS
 DESENHOS INFANTIS
 
+
+<item>
+<title>[COLOR silver][B] O MAGO- PESADELO DO LOBO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b983e92283af5f2ba0252f88731b800eb97740e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kPry1BAfJtYNyQEpKdV4cYan6MB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O filme animado irá explorar elementos de magia, monstros, aventura e romance. Se passa no mesmo universo da série live-action estrelada por Henry Cavill. A animação é um prequel da série live-action e terá Vesemir no papel principal, explorando os eventos antes de se tornar guardião e mentor de Geralt of Rivia. Estúdio de animação: Studio Mir.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SCOOBY! O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6856ABBE998BED8E206E7BEEBA6806D0F126AD4B</link>
