@@ -2,7 +2,14 @@
 DESENHOS INFANTIS
 
 
-
+<item>
+<title>[COLOR silver][B] BATMAN - O LONGO DIA DAS BRUXAS PARTE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HUMBPEABT3YH2V3VWXPWIGMOZ5OLO5VN$nome=BATMAN PARTE 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58eb8e1753c50177c340019c6aeaa6f1365dba56$nome=BATMAN PARTE 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5X1n5q08mZ7NpNpxehMFODxfNYq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> PARTE 1 - O assassino conhecido como Holiday continua a perseguir a família do crime Falcone, enquanto uma nova classe de criminosos fantasiados sobe em Gotham City. Batman suspeita que um ex-aliado pode ser o assassino em série. PARTE 2 - Um assassinato brutal no Halloween leva o jovem vigilante de Gotham, o Batman, a formar um pacto com os dois únicos homens da lei não corruptos (o Capitão de Polícia James Gordan e o Promotor Distrital Harvey Dent), a fim de derrubar ‘The Roman’, chefe da notória e poderosa Família do Crime, Falcone. Mas quando mais mortes ocorrem no Dia de Ação de Graças e no Natal, fica claro que, em vez da violência comum de gangues, eles também estão lidando com um assassino em série cuja identidade, a cada pista conflitante fica mais difícil de discernir. Poucos casos testaram a inteligência do Maior Detetive do Mundo como o mistério por trás deste Assassino de Feriados</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MIRACULOUS WORD- A LENDA DE LADY DRAGON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
