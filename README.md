@@ -2,6 +2,16 @@
 DESENHOS INFANTIS
 
 
+
+
+<item>
+<title>[COLOR silver][B] MIRACULOUS WORD- A LENDA DE LADY DRAGON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ebcc51822b8e21588e702f46f839d183ced9b88c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t7cPk3hTF3X8IMZr0hPAG0cVLTI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ladybug decide visitar seu tio em Xangai, mas quando chega a cidade acaba sendo roubada e os ladrões levam sua bolsa com o Tikki. Sem dinheiro e sozinha na cidade, a heroína aceita a ajuda de uma jovem inteligente chamada Fei. As duas então se juntam em uma grande aventura e descobrem e existência de uma nova joia poderosa.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MORTAL KOMBAT LEGENDS - A BATALHA DOS REINOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee8888ec04081ec90ce7f538a32b3500e5970eec</link>
