@@ -3,6 +3,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] MORTAL KOMBAT LEGENDS - A BATALHA DOS REINOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee8888ec04081ec90ce7f538a32b3500e5970eec</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ablrE8IbWcIrAxMmm4gnPn75AMS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O site norte-americano Deadline anunciou hoje que uma sequência de Mortal Kombat Legends: Scorpion’s Revenge está a caminho através da Warner Bros Animation. De acordo com o site, o novo filme animado se chamará Mortal Kombat Legends: Battle of the Realms, mas detalhes da trama ainda não foram revelados. É esperado que o filme seja lançado neste verão norte-americano (entre junho e setembro) através de plataformas digitais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MAGO- PESADELO DO LOBO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b983e92283af5f2ba0252f88731b800eb97740e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kPry1BAfJtYNyQEpKdV4cYan6MB.jpg</thumbnail>
