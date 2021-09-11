@@ -3,6 +3,22 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] SPIRIT-O INDOMÁVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UZLTCMDSXA36VJUIUD4TOE44XCS3WZ7V</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dSFaiG2xgwq2Z0ceUXPyfxnITC8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lucky nunca conheceu realmente sua falecida mãe, Milagro Navarro, que era uma dublê de equitação de Miradero, uma pequena cidade no limite da fronteira aberta. Depois que Lucky e sua tia voltam para a pequena cidade, ela encontra Spirit, um Mustang selvagem ao qual ela se liga instantaneamente, e parte em uma aventura para evitar que o cavalo caia em mãos erradas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O CAVALEIRO DO DRAGÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:K7CUR5VJVFBVA3PBKRQKXEJQYCOHBABZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v8O3Sk7xw50LMLpxYNhEY4gTZvd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um dragão e um duende se unem com um garoto para encontrarem um novo lar para o dragão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BATMAN - O LONGO DIA DAS BRUXAS PARTE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HUMBPEABT3YH2V3VWXPWIGMOZ5OLO5VN$nome=BATMAN PARTE 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58eb8e1753c50177c340019c6aeaa6f1365dba56$nome=BATMAN PARTE 2</link>
