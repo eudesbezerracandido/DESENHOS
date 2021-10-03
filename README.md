@@ -3,6 +3,22 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] BLUSH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PFHJYBWPCZICXIYVPM7AQBWNVOEEK3D5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bbtOAuvEUVVUXU8zEfuRlhcsPLA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Blush acompanha a jornada de um astronauta e horticultor perdido que tenta sobreviver após cair em um planeta anão deserto. Até então solitário, o viajante descobre a alegria de construir uma nova vida quando uma salvação impressionante enviada pelo universo chega na forma de uma visitante delicada.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LEGO STAR WARS-CONTOS ATERRORIZANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RS7XERGGYFMT37EH73HQTYAGV5XMC5O5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4gFftTWMU81JUG0warl5BsChU23.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após os eventos de Star Wars: The Rise of Skywalker, Poe Dameron e BB-8 devem fazer um pouso de emergência no planeta vulcânico Mustafar, onde encontram o ganancioso e conivente Graballa the Hutt. O chefe do crime comprou o castelo de Darth Vader e está reformando-o para se tornar o primeiro hotel de luxo inspirado em Sith com tudo incluído da galáxia. Enquanto espera que seu X-Wing seja consertado, Poe, BB-8, Graballa e Dean (um menino corajoso e corajoso que trabalha como mecânico de Graballa) se aventuram profundamente no castelo misterioso com o servo leal de Vader, Vaneé. Ao longo do caminho, Vaneé compartilha três histórias assustadoras ligadas a artefatos antigos e vilões icônicos de todas as eras de Star Wars. À medida que Vaneé gira seus contos e atrai nossos heróis mais profundamente para o interior sombrio do castelo, um plano sinistro emerge. Com a ajuda de Dean, Poe e BB-8 terão que enfrentar seus medos, impedir o surgimento de um antigo mal e escapar para voltar para seus amigos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SPIRIT-O INDOMÁVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UZLTCMDSXA36VJUIUD4TOE44XCS3WZ7V</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dSFaiG2xgwq2Z0ceUXPyfxnITC8.jpg</thumbnail>
