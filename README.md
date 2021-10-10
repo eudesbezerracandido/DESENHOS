@@ -2,6 +2,15 @@
 DESENHOS INFANTIS
 
 
+
+<item>
+<title>[COLOR silver][B] POKÉMON- O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YFFTUJHPKRSYGKWOVGPUKRBDUJPX63FI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Aip9h0zIzKHTdSxoZHdOWweQTrI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Coco mora na floresta e vive com outros Pokémon, porém, a floresta está sob ataque e Coco acaba caindo de um penhasco, mas para a sua sorte, ele foi salvo por um Zarude, que desde então começou a cuidar de Coco como se fosse seu pai.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] BLUSH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PFHJYBWPCZICXIYVPM7AQBWNVOEEK3D5</link>
