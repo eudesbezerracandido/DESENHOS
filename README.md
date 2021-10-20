@@ -3,6 +3,15 @@ DESENHOS INFANTIS
 
 
 
+
+<item>
+<title>[COLOR silver][B] INJUSTICE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SXKFVNU4U7XIVP3ICKBUF66W3B7SSFPP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lNRdCfVcjLs2LhO1Vb5rgnHV4JW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando Superman não consegue proteger aquilo que mais ama, Lois Lane, ele decide parar de tentar salvar o mundo... e começa a governá-lo. Agora, o último filho de Krypton está impondo a paz na Terra por todos os meios necessários. Só um homem se coloca entre Superman e seu poder absoluto: Batman. O Cavaleiro das Trevas vai usar qualquer método ao alcance para impedir seu ex-amigo de remodelar o mundo à sua imagem despedaçada.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] POKÉMON- O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YFFTUJHPKRSYGKWOVGPUKRBDUJPX63FI</link>
