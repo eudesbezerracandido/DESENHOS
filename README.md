@@ -5,6 +5,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] A ABELHINHA MAYA É O OVO DOURADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SBXRYLLSJJ4KV6KHPPFS76G5AYPEAZGA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nA6Jg8fLhJtabQYozYOUM3GzXs7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Maya (Coco Jack Gillies) é uma abelha teimosa que resgatou uma formiga princesa com a ajuda de seu grande amigo Willi (Benson Jack Anthony). No entanto, eles acabam entrando no meio de uma batalha de insetos. Agora o trio viajará por mundos estranhos e realidades desafiadoras, onde a amizade é testada até o limite.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] INJUSTICE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SXKFVNU4U7XIVP3ICKBUF66W3B7SSFPP</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lNRdCfVcjLs2LhO1Vb5rgnHV4JW.jpg</thumbnail>
