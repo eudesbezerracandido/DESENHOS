@@ -4,6 +4,16 @@ DESENHOS INFANTIS
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] O PODEROSO CHEFINHO  2  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ceeb0fcc46af65f0175e5140290a08a277e3482</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p033k6k8V9USI0TWZavIxoYzsGi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os irmãos Templeton - Tim e seu irmão chefinho Ted - agora são adultos que se distanciaram um do outro. Tim é um pai cassado enquanto Ted é o chefe de uma grande corporação. Mas a chegada de um novo bebê chefinho fará com que eles se reaproximem, inspirando um novo negócio de família.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A ABELHINHA MAYA É O OVO DOURADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SBXRYLLSJJ4KV6KHPPFS76G5AYPEAZGA</link>
