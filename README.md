@@ -1,10 +1,13 @@
 # DESENHOS
 DESENHOS INFANTIS
 
-
-
-
-
+<item>
+<title>[COLOR silver][B] OS SIMPSON EM PLUSNIVERÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbd55705d2ac8041e9a8dd5810678e17125a41e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hYNFywlOCBGBz8ZX7nDVpDHbsSG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os Simpsons organizaram uma festa para o Dia do Disney+ e todos foram convidados… menos o Homer. Com amigos do serviço de streaming e músicas dignas de princesas da Disney, o Plusaniversário é o evento do ano em Springfield.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O PODEROSO CHEFINHO  2  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
