@@ -1,6 +1,33 @@
 # DESENHOS
 DESENHOS INFANTIS
 
+
+
+
+<item>
+<title>[COLOR silver][B] BATMAN - A MORTE EM FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HRFG4LF2WOAB55J73INKUOT4IWPJNA3E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/97zKwVhOLyTnFbnuLZHbOboLyrM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Produzido, dirigido e escrito por Brandon Vietti, Batman: Morte em Família oferece uma visão inventiva da longa história. Na nova apresentação animada, o infame assassinato do protegido de Batman Jason Todd será desfeito, e os destinos de Batman, Robin e Coringa serão exibidos de maneira chocante, à medida que os espectadores tomarem várias escolhas para controlar a história. E enquanto Batman: Contra o Capuz Vermelho fornece uma linha de base, a história também se ramifica em novas direções e apresenta vários personagens nunca antes vistos no filme original. A apresentação interativa em Blu-ray oferece muitas maneiras diferentes dos espectadores contarem a história de Batman: Morte em Família, com inúmeras reviravoltas no meio e vários finais possíveis. As escolhas ao longo do caminho dão mais peso às decisões dos espectadores e resultam em histórias ainda mais fortes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DIÁRIO DE UM BANANA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BG7DSCLQEVP3TFBPDKMR2KKWG5ON2NV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mqS3PC8k95kUwtOmVa6mTBf0EF1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Reboot encomendado pelo Disney +. O CEO da plataforma de streaming, Bob Iger, revelou em entrevista que essa nova versão de "Diário de um Banana" estará disponível apenas na plataforma. - Não foi divulgado se o projeto será uma série ou filme.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A SERPENTE VERDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2ff0680e913954b5b308416fe9d1555c58fc782</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kKrdS3he8ckFWa0wySI8kfYHWw6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ao tentar libertar a irmã das garras de Fahai, Xiao Qing chega em uma cidade distópica e encontra um homem misterioso que não se lembra do passado.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] OS SIMPSON EM PLUSNIVERÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbd55705d2ac8041e9a8dd5810678e17125a41e</link>
