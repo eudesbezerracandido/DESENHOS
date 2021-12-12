@@ -6,6 +6,30 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] SNOOP APRENTA- FELIZ ANO NOVO, LUCY! [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bqx5WTWPX4H4g9LUCmnrtg9BIPZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme Snoopy Apresenta: Feliz Ano Novo, Lucy! WEB-DL 1080p Dual Áudio, Após descobrir que sua avó não irá para o Natal, Lucy decide dar uma grande festa de Ano Novo para se animar. Enquanto isso, Charlie Brown tenta cumprir uma de suas resoluções antes que o relógio marque meia-noi</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A FAMILIA ADDAMS 2- PÉ NA ESTRADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0230e4ce43b3cefbfd4d902d8ff9e9615ba7d27b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ig0RMUyjiAw7hdCRsXYnOCKSucg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Continuação confirmada do filme de animação, após uma ótima abertura de bilheteria.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PROXIMA PARADA-LAR DOCE LAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:057e2a3bd168c0516e9b604ff8fe9517704485aa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zNXNRLH5wJprUG6B1olaBTNZOjy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de animais que vive em um zoológico na Austrália, decide fugir para retornar ao seu habitat natural. A trupe é liderada pela serpente Maddie.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A SABÍA SABIAZINHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZCQD3KPPRTXHTZAX3EQG5FOPP7WXDCN7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bKIdlJbd17rrIm4oZzhXTbmqpon.jpg</thumbnail>
