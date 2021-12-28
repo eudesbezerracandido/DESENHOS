@@ -3,6 +3,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] DESEJO DE NATAL DE MICKEY & MINNIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88f72102b779480af1de296bf4480930a527e408</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mmfcnU42ghEdxySVi2HLynvXZxl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Todo Natal, Mickey, Minnie e sua turma comemoram juntos para compartilhar suas tradições. Mas este ano, eles estão em todo o mundo, e é uma corrida louca para chegar em casa a tempo!</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] STAND BY ME DORAEMON 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CZJPYHJFHVZXPVGBHIB5CFQ27ID7BCZO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mu5t94c8IZU781aMg1E1FKinYG2.jpg</thumbnail>
