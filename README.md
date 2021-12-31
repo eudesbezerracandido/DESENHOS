@@ -2,6 +2,15 @@
 DESENHOS INFANTIS
 
 
+
+<item>
+<title>[COLOR silver][B] COMPANHIA DAS FOCAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OBD2BNFNOKSYTJ7FWBGGHMG7KRYP3ZTP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/swLTLv0IcmXTLF0BzjYd8W9mcD4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme Companhia das Focas WEB-DL 1080p Dual Áudio, O corajoso Quinn monta um grupo especial de focas para enfrentar os cruéis tubarões de dentes afiados que estão dominando o mar.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DESEJO DE NATAL DE MICKEY & MINNIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88f72102b779480af1de296bf4480930a527e408</link>
