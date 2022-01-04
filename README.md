@@ -3,6 +3,23 @@ DESENHOS INFANTIS
 
 
 
+
+<item>
+<title>[COLOR silver][B] HILDA E O REI DA MONTANHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TGEB7O2F5KU3WVV676T3RIRYKHD2LJ22</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3vm7LOe7DhkiA7umBhslQy9MdkY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Chamado Hilda and The Mountain King (Hilda e o Rei da Montanha, em tradução livre), o especial se passa após os eventos da segunda temporada da série animada</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BOB CUSPE- NÃO GOSTAMOS DE GENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N7XWWG6HNJWDWIIB7WGUOYM5YC2U4O56</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tpeg7nTGz7dB71vwZGYTeSfahXm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Animação stop-motion que mistura documentário, comédia e road-movie. Traz a história do personagem Bob Cuspe, um velho punk tentando escapar de um deserto pós-apocalíptico que é na verdade um purgatório dentro da mente de seu criador, Angeli, um cartunista passando por uma crise criativa.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] COMPANHIA DAS FOCAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OBD2BNFNOKSYTJ7FWBGGHMG7KRYP3ZTP</link>
