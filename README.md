@@ -2,7 +2,13 @@
 DESENHOS INFANTIS
 
 
-
+<item>
+<title>[COLOR silver][B] AINBO- A GUERREIRA DA AMAZÔNIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:510e622c75814941de0ad59fde9ac18a6d69318f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xGkmm8YB1HzM3GaQ3FBv1NTwWxS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ainbo conta a história de Colonia, uma jovem da Amazônia que deve lutar contra um espírito que encarna o mal do homem e ameaça seu paraíso. Ainbo nasceu e foi criada na aldeia de Candámo, na floresta Amazônica. Um dia, ele descobre que sua tribo está sendo ameaçada por outros seres humanos. A garota enfrenta a missão de reverter essa destruição e extinguir a maldade dos Yakuruna, a escuridão que habita o coração de gente gananciosa.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HILDA E O REI DA MONTANHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
