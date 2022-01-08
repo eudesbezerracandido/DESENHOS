@@ -2,6 +2,16 @@
 DESENHOS INFANTIS
 
 
+
+
+<item>
+<title>[COLOR silver][B] DAYSE QUOKKA-O ANIMAL MAIS FEROZ DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c622aba7ccf6c7e828a5fe921c141c0d15ff2e45</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p9dbwWKE8SQqyHoN3Vo8BHpt8fc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma quokka eternamente otimista e insuportavelmente adorável chamada Daisy tem um sonho impossível - vencer os 'Jogos Mais Assustadores do Mundo'.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AINBO- A GUERREIRA DA AMAZÔNIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:510e622c75814941de0ad59fde9ac18a6d69318f</link>
