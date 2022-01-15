@@ -3,6 +3,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] RIVERDANCE-UMA AVENTURA DANÇANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de2a972e6b07ac30d4b783aaca74a27e2244a775</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yn9DrhUBPrUTFEUHtdXSxgWcFTA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um garoto irlandês e uma menina espanhola embarcam em uma viagem pelo fantástico mundo dos alces-gigantes e aprendem a celebrar a vida através da música. Inspirado em “Riverdance”, com canções originais do vencedor do Grammy Bill Whelan.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THE HOUSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EYW6ZRSMKB6HR4OT3YVERDANHGVZIGOU</link>
 <thumbnail>https://archive.org/download/the-house-poster/The-House-poster.jpg</thumbnail>
