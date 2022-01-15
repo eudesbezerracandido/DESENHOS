@@ -2,7 +2,21 @@
 DESENHOS INFANTIS
 
 
+<item>
+<title>[COLOR silver][B] THE HOUSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EYW6ZRSMKB6HR4OT3YVERDANHGVZIGOU</link>
+<thumbnail>https://archive.org/download/the-house-poster/The-House-poster.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme The House WEB-DL 720p/1080p Dual Áudio, Nesta comédia de animação de humor ácido, uma família humilde, um arquiteto ansioso e uma senhoria cansada ficam presos à mesma casa misteriosa em épocas diferentes.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] HOTEL TRANSILVÂNIA 4 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f45ebc0b828623a3b679a2840cd3e33e635d8a36</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9PbtCo5IIkd26WPQfZUpPyn6fTz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Van Helsing cria uma invenção que transforma humanos em monstros e vice versa. Assim, Drac e sua turma são transformados em pessoas comuns, enquanto Johnny vira uma monstro. Sem seus poderes de vampiro, Drac terá que correr contra o tempo para reverter essa assustadora situação antes que seus novos corpos se tornem permanentes.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DAYSE QUOKKA-O ANIMAL MAIS FEROZ DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
