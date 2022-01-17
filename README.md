@@ -19,6 +19,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] HOTEL TRANSILVÂNIA 3-FÉRIAS MOSTRUOSAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DDE9D8273D94EF21BBB9BC6680A9A2C2CE0FAFA7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fX1C1BECq6Mkv3RM74t9miaXpnV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro. Inicialmente resistente à ideia, ele acaba engajado no passeio ao se encantar pela comandante, que, no entanto, esconde um segredo nada amigável.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HOTEL TRANSILVÂNIA 4 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f45ebc0b828623a3b679a2840cd3e33e635d8a36</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9PbtCo5IIkd26WPQfZUpPyn6fTz.jpg</thumbnail>
