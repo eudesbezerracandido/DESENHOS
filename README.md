@@ -40,7 +40,7 @@ DESENHOS INFANTIS
 <thumbnail>https://www.themoviedb.org/t/p/original/p9dbwWKE8SQqyHoN3Vo8BHpt8fc.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Uma quokka eternamente otimista e insuportavelmente adorável chamada Daisy tem um sonho impossível - vencer os 'Jogos Mais Assustadores do Mundo'.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] AINBO- A GUERREIRA DA AMAZÔNIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
