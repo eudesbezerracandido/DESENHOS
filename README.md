@@ -1,8 +1,13 @@
 # DESENHOS
 DESENHOS INFANTIS
 
-
-
+<item>
+<title>[COLOR silver][B] OS HERCULÓIDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9EF91C01B30F1BD789A5177F1387E098836F0CF4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fGx7ht0yP9Jn3lNawWIllKXt24.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uoNk7Lkt44lIaosI2clzQZMAqgY.jpg</fanart>
+<info>É uma série animada de ficção científica, produzida pela Hanna-Barbera Productions. Foram criados pelo desenhista Alex Toth. Estreou na televisão norte-americana no dia 9 de setembro de 1967, no canal CBS, sendo exibida até 1969.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A ERA DO GELO- AS AVENTURAS DE BUCK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
