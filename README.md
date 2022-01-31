@@ -2,6 +2,16 @@
 DESENHOS INFANTIS
 
 
+
+
+<item>
+<title>[COLOR silver][B] A ERA DO GELO- AS AVENTURAS DE BUCK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HC6QNBJ64XMIC43LU2ECLVEDTWE4XEQT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Acompanhe as novas peripécias dos mamíferos pré-históricos favoritos de todo mundo. A Era do Gelo: As Aventuras de Buck continua as peripécias hilárias dos mamíferos pré-históricos favoritos de todo mundo. Loucos para ficar longe da irmã mais velha, Ellie, os gambás caçadores de emoções Crash e Eddie saem em busca do próprio espaço, mas logo se veem presos numa imensa caverna subterrânea. Eles são resgatados pelo amigo caolho, aventureiro e caçador de dinossauros, a doninha Buck Wild, e juntos eles devem enfrentar os dinossauros rebeldes que habitam o Mundo Perdido.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] RIVERDANCE-UMA AVENTURA DANÇANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de2a972e6b07ac30d4b783aaca74a27e2244a775</link>
