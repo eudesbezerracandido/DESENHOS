@@ -1,6 +1,19 @@
 # DESENHOS
 DESENHOS INFANTIS
 
+
+
+
+
+
+<item>
+<title>[COLOR silver][B] CATWORMAN - HUNTED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SN4R76MRPJFCW6OYIFPILYXU7LIOHMFZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/50hJAtlhqnNtEvEffUYkmNtWJHX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Hunted, que é produzido em um estilo anime, pega com a Mulher-Gato enquanto ela tenta roubar uma joia inestimável. O assalto a coloca na mira de um poderoso consórcio de vilões e da sempre engenhosa Interpol, bem como da Batwoman.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] OS HERCULÓIDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9EF91C01B30F1BD789A5177F1387E098836F0CF4</link>
