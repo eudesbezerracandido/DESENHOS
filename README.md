@@ -2,9 +2,13 @@
 DESENHOS INFANTIS
 
 
-
-
-
+<item>
+<title>[COLOR silver][B] A LIGA DE MOSTROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11858fd24076a751775f0d75fcf5562f52a44f0c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aeSfVBkewd75xMK2K9XH4BWxHRO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em um mundo onde Wrestling de monstros é um esporte popular e monstros são super atletas, a adolescente Winnie segue os passos de seu pai e se torna treinadora de uma adorável criatura para torná-la um campeão.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CATWORMAN - HUNTED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
