@@ -3,6 +3,13 @@ DESENHOS INFANTIS
 
 
 
+<item>
+<title>[COLOR silver][B] SING 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ffb3eda82a15405186ae8ed0c865539045cb1fe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sequência do filme animado de 2016, 'Sing'. Na glamourosa cidade de Redshore, Buster Moon e a galera enfrentam seus medos, fazem novos amigos e superam seus limites em uma jornada para convencer o recluso astro Clay Calloway a subir aos palcos novamente.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A LIGA DE MOSTROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
