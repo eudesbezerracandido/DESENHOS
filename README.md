@@ -4,6 +4,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] RED-CRESCER É UMA FERA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZKGYKPHELGIJFJOYCV3DBUZ6SHOCAM4E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/725WE0Qb1BbUF7aGvjiQqzzffpg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>nheça Mei: uma jovem que experiencia a estranheza de ser uma adolescente ao se transformar em um panda vermelho gigante toda vez que fica muito animada.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HE-MAN E OS MESTRES DO UNIVERSO 2° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HBQMT5VYWF25W3NID5VBUZ2YV6MEALR4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gW4OSQbNLt6Fv2fuALAViqWslOa.jpg</thumbnail>
