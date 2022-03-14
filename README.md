@@ -2,6 +2,14 @@
 DESENHOS INFANTIS
 
 
+<item>
+<title>[COLOR silver][B] UMA FAMILIA FELIZ  1 & 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c91cfdaafcbbd8aad4f517d54703b9a2a614f40f$NOME=FAMILIA FELIZ</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RVX2W73CQ4XBX3TZKHP5UW4ECLG6275V$NOME=FAMILIA FELIZ 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bz9qnV41N3gbMStjXKL2YkR9aXE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para libertar Baba Yaga e Renfield das garras da caçadora de monstros Mila Starr, a Família Wishbone mais uma vez transforma-se em uma vampira, o monstro de Frankenstein, uma múmia e um lobisomem. Acompanhados por seus três morceguinhos de estimação, a família de monstros voa ao redor do mundo para salvar seus amigos, conhecendo novos companheiros monstruosos ao longo do caminho e, no final, entendendo que “ninguém é perfeito” e está tudo bem.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] RED-CRESCER É UMA FERA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
