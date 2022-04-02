@@ -3,6 +3,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] APOLLO 10 E MEIO - A AVENTURA NA ERA ESPACIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VOM4FID5LLVQ4VM23WXMDXTVYOADGIJU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2OkOOZN5aGj7LjbRdHazGPfGejJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um coming-of-age situado nos subúrbios de Houston, Texas, no verão de 1969, em meio a histórica viagem a Lua da Apollo 11, contado pelas perspectivas dos astronautas que fizeram parte do momento triunfante e de uma criança que vive perto da NASA mas acompanhando todo o processo pela TV assim como milhões de pessoas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA FAMILIA FELIZ  1 & 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c91cfdaafcbbd8aad4f517d54703b9a2a614f40f$NOME=FAMILIA FELIZ</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RVX2W73CQ4XBX3TZKHP5UW4ECLG6275V$NOME=FAMILIA FELIZ 2</link>
