@@ -3,6 +3,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] FELIX E O TESOURO DE MORGAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22732384f6e1de9788df0e9aef06711b3255f143</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pBDkkm3Y6BAHbUBi1lydEVjeZFF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Aproveitando a ausência da mãe para partir em um cruzeiro para descansar e relaxar, Félix, de 12 anos, sai em busca de seu pai, um pescador que desapareceu no mar dois anos antes.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] APOLLO 10 E MEIO - A AVENTURA NA ERA ESPACIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VOM4FID5LLVQ4VM23WXMDXTVYOADGIJU</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2OkOOZN5aGj7LjbRdHazGPfGejJ.jpg</thumbnail>
