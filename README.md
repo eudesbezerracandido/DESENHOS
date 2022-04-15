@@ -3,6 +3,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] A ERA DO GELO- HISTÓRIAS DO SCRAT[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1728a383a435e9fbe7dc02992f3facc9d49eb44</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lJCe6cQl4PfFMIN4jZCSrEpOXW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em História de Scrat, o infeliz esquilo que está sempre caçando nozes e falhando em armazená-las vai explorar os altos e baixos da paternidade, à medida que ele e o adorável e travesso Baby Scrat se unem e lutam pela posse da preciosa Bolota.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FELIX E O TESOURO DE MORGAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22732384f6e1de9788df0e9aef06711b3255f143</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pBDkkm3Y6BAHbUBi1lydEVjeZFF.jpg</thumbnail>
