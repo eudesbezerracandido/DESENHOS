@@ -2,6 +2,32 @@
 DESENHOS INFANTIS
 
 
+
+
+<item>
+<title>[COLOR silver][B] MARMADUKE-O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ILQIVYIZDMCKGZZF2CAHQRDB2VB6GGES</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e1hxniKMiRIpGiad0BCATn4d8uv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme Marmaduke WEB-DL 720p/1080p Dual Áudio, Marmaduke acaba chamando a atenção de um treinador de cachorros renomado, após um vídeo seu arruinando completamente um churrasco se tornar viral. Apesar da bagunça, o treinador fica convencido do potencial que esse cão mal-comportado tem de ser treinado, para se tornar um campeão no show de cães e acredita ser o único capaz de fazer de Marmaduke um vencedor. No entanto, as coisas começam a se tornar mais desafiadoras para Marmaduke quando ele se depara com o notório Zeus, um rival mais experiente que fará de tudo para que a dupla não leve a medalha para casa. À medida que o vínculo entre Marmaduke e seu treinador se fortalece, os dois percebem o quanto ambos de fato precisam um do outro para vencer.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OS CARAS MALVADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37c0218649efed8d7a23434d5e807d424a7a78b7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/syKg3OmdtSYmkA7nNdtPUYdSFGL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sobre o filme Nunca houve cinco amigos tão infames quanto Os Caras Malvados - o arrojado batedor de carteiras Sr. Wolf, o arrombador de cofres Mr. Snake, o mestre do disfarce do frio Sr. Shark, o “músculo” curto do Sr. Piranha e a especialista em hacker de língua afiada Sra. Tarantula, também conhecido como "Webs".</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TARSILINHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2206477538b2daebe0c7d74e45ee4835d1c8dac8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/szoK1qZ0YThXajLnkE8l7wygXpG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Animação com a menina Tarsila do Amaral (Tarsilinha) passeando nas suas obras de arte. A trilha sonora foi feita pelo Zeca Baleiro.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A ERA DO GELO- HISTÓRIAS DO SCRAT 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1728a383a435e9fbe7dc02992f3facc9d49eb44</link>
