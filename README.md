@@ -13,6 +13,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] TICO E TECO - DEFENSORES DA LEI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DPZRGK4KGCIHXYL2QQPB6AG4WCC4HPVP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bOYRRVe9jhlwU8hAZ53Kg0vhIH4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O Tico e o Teco estão vivendo entre animações e humanos na Los Angeles dos dias atuais, mas suas vidas estão bem diferentes agora. Já faz décadas que a série de sucesso deles foi cancelada, e os antigos amigos seguiram caminhos diferentes. Então, quando um antigo membro do elenco desaparece misteriosamente, eles precisam assumir suas personas de Defensores da Lei para salvar seu amigo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OS CARAS MALVADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37c0218649efed8d7a23434d5e807d424a7a78b7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/syKg3OmdtSYmkA7nNdtPUYdSFGL.jpg</thumbnail>
