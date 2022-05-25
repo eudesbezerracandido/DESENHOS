@@ -13,6 +13,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] JOVENS TITÂS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f30b4f43b05c2ade640edaad06199bde5c7cad6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3Hnhf1FqVGnh20hKlHbiRvHhB5b.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Com a ajuda de um antigo poder kryptoniano, Lex Luthor une os super-vilões do mundo para capturar todos os super-heróis da Terra, até que apenas as DC Super Hero Girls são deixadas para parar a Legion of Doom. Nossos heróis devem cruzar dimensões para resgatar seus companheiros Super-Heróis da Zona Fantasma, mas um desvio fortuito os leva à Torre dos Titãs onde eles encontram aliados muito necessários nos Jovens Titãs!</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TICO E TECO - DEFENSORES DA LEI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DPZRGK4KGCIHXYL2QQPB6AG4WCC4HPVP</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bOYRRVe9jhlwU8hAZ53Kg0vhIH4.jpg</thumbnail>
