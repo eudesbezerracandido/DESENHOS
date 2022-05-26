@@ -13,6 +13,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] CORAÇÃO DE FOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c319d059a16c155b8ab3e6c46da6235723c14c07</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bBYfhuIOld8UafUF5rDScxroLit.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Georgia Nolan tem 16 anos e sonha em ser a primeira bombeira mulher. Quando bombeiros começam a desaparecer misteriosamente em New York, Georgia se disfarça como homem e tenta ajudar o pai a solucionar o caso.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JOVENS TITÂS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f30b4f43b05c2ade640edaad06199bde5c7cad6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3Hnhf1FqVGnh20hKlHbiRvHhB5b.jpg</thumbnail>
