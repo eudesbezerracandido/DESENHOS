@@ -13,6 +13,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B]  AO INFINITO E ALÉM - BUZZ S SUA JORNADA PARA SER LIGHTYER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76ef0506a7b819dedaecfd83c6007500e8c2250c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kvlULW0N25e7jVeGyYMTWrGWNzq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O documentário especial da Pixar explora a evolução do Buzz Lightyear de brinquedo na franquia Toy Story a humano no filme Lightyear, mergulhando na origem e no impacto cultural do personagem, na arte de projetar um novo Buzz humano e nos desafios enfrentados pela produção de Lightyear ao longo do caminho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CORAÇÃO DE FOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c319d059a16c155b8ab3e6c46da6235723c14c07</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bBYfhuIOld8UafUF5rDScxroLit.jpg</thumbnail>
