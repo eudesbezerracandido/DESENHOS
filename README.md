@@ -21,6 +21,22 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] FRANGOELHO E O HASTER DAS TREVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CSEWH5LKTSZCX4KIOZWUC7EZDWYI4BV4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aIzqgCqKh69G95HDB9LWTLnLT8H.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Metade frango, metade coelho e puro coração. Acompanhe esse herói inesperado em uma missão para encontrar um tesouro antigo e salvar o reino animal.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AS AVENTURAS DE GULLIVER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5PCBHCM3WDDN3CEAS3K7EGZ2B3DJFIO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hEOsByOxmcY5VexXTwqLs9fygYA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O maior aventureiro de todos os tempos está de volta! Ao retornar à cidade de Lilliput, Gulliver descobre que muita coisa mudou desde a sua partida e que os moradores estão enfrentando a ameaça de um general com sede de vingança. Gulliver é a última esperança para salvar a cidade e terá que se esforçar para vencer esse desafio gigante.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JOVENS TITÂS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f30b4f43b05c2ade640edaad06199bde5c7cad6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3Hnhf1FqVGnh20hKlHbiRvHhB5b.jpg</thumbnail>
