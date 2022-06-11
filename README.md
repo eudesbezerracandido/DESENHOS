@@ -21,6 +21,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] HALO - THE FALL OF REACH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1054B36318EB508B02FE53046130D585381DB490&</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/11Hs7WmsW2htHTKQrx3nK9Ke8aG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Halo: Fall of Reach conta a dramática história de origem e intrigas por trás do programa SPARTAN que impulsionou personagens como Master Chief e Dr Catherine Halsey ao panteão de “Halo.” A história revela os eventos que uniram Master Chief e o Blue Team, incluindo seu treinmento Spartan e sua ousada missão de contra atacar os Covenant durante os primeiros dias da invasão alienígena.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FRANGOELHO E O HASTER DAS TREVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CSEWH5LKTSZCX4KIOZWUC7EZDWYI4BV4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aIzqgCqKh69G95HDB9LWTLnLT8H.jpg</thumbnail>
