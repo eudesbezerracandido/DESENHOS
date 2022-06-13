@@ -21,6 +21,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] PIU-PIU DA A VOLTA AO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DLTDUXY577JKAVALTWIIOQC7CWXK35G2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uN5eJDFF5VuL8IuPVUdjI3Oe9Yd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Vovó aposta com um rico senhor que seu canarinho, Piu-Piu, é mais inteligente que qualquer gato. Para tanto Piu-Piu terá que dar a volta ao mundo em 80 dias, visitando países e colecionando “vistos” com as patas dos gatos. O prêmio seria usado para reabrir um parque frequentado por crianças pobres que estava sendo fechado por causa das dívidas. Nesta grande aventura Piu-Piu enfrenta além da perseguição do “gatinho”, as inesperadas alterações do tempo, porém conta a partir do Tibet com a companhia da bela canarinha Auga.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CORAÇÃO DE FOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c319d059a16c155b8ab3e6c46da6235723c14c07</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bBYfhuIOld8UafUF5rDScxroLit.jpg</thumbnail>
