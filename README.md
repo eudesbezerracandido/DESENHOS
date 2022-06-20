@@ -13,6 +13,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] TOM & JERRY NO VELHO OESTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c6a0471e02487919f8d0ed7a04a6aed256651bd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/khy44zoKUqInUSWhdzzcQZKDU0P.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>"Tom and Jerry Cowboy Up!" possui produção executiva de Sam Register. O filme é dirigido por Darrell Van Citters (Tom and Jerry in New York, Tom and Jerry Show, Tom and Jerry: Santa’s Little Helpers), com roteiro de Will Finn e William Waldner.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  AO INFINITO E ALÉM - BUZZ S SUA JORNADA PARA SER LIGHTYER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76ef0506a7b819dedaecfd83c6007500e8c2250c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kvlULW0N25e7jVeGyYMTWrGWNzq.jpg</thumbnail>
