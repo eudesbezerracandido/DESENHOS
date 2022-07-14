@@ -13,6 +13,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] BOBS BURGERS- O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff9d63ed406b6dab8df0d6171b7d6556cad8c6c4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h4NtdQn1Gm6wNLZDcCuasVPv3Oh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Bob's Burgers vai para os cinemas! A animação da FOX, vencedora do Emmy de melhor animação em 2017, chegará aos cinemas em um longa-metragem em 2020. As informações são do Deadline. A animação já caminha para a sua oitava temporada e acompanha a família Belcher, que administra uma lanchonete com os melhores hambúrgueres das redondezas. Apesar da disposição de Bob em sempre colocar em prática as melhores ideias, o restante do clã não está exatamente disposto a ajudar muito.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TOM & JERRY NO VELHO OESTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c6a0471e02487919f8d0ed7a04a6aed256651bd</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/khy44zoKUqInUSWhdzzcQZKDU0P.jpg</thumbnail>
