@@ -13,6 +13,22 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] SOUTH PARK - GUERRAS DO STREAMING PARTE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e14d21f12c29351cbe1cf85db71f04ff3ea9f12</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cqWXH5rYHTD32I5RY6pHR828BrO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma seca deixa a cidade de South Park à beira de um desastre.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BEAVIS E BUTT-HEAD- DETONANDO O UNIVERSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96919b21ad7b105a785c6780827af7eb3e9fb0c4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5hgVcFr4eWGGRpjYwxb03z7wuqg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Beavis e Butt-head, em 1998, são condenados e levados a uma viagem no ônibus espacial, com resultados previsivelmente desastrosos. Depois de passar por um buraco negro, eles ressurgem em nosso tempo atual, em 2022.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BOBS BURGERS- O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff9d63ed406b6dab8df0d6171b7d6556cad8c6c4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/h4NtdQn1Gm6wNLZDcCuasVPv3Oh.jpg</thumbnail>
