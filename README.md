@@ -13,6 +13,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - FLER - NENHUM LUGAR PARA CHAMAR DE LAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FTL7F66G3ALOJY6RAMYT4UEMPOKQNTZQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eIaG0veFgAxOy9iMRohPItTmscO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O documentário animado nos apresenta Amin Nawabi (pseudônimo), um intelectual altamente graduado de 36 anos, luta com um segredo doloroso que manteve escondido por vinte anos e que ameaça desestabilizar a vida que construiu para si e para o futuro marido. Recontada pelo diretor Jonas Poher Rasmussen, seu amigo próximo, a história extraordinária da viagem feita por Amin na infância, como refugiado afegão, vem à luz pela primeira vez. História de autodescoberta, a animação mostra que só quem confronta o passado pode criar um futuro, e só quem para de fugir de si mesmo descobre o verdadeiro significado de ter um lar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOUTH PARK - GUERRAS DO STREAMING PARTE 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e14d21f12c29351cbe1cf85db71f04ff3ea9f12</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cqWXH5rYHTD32I5RY6pHR828BrO.jpg</thumbnail>
