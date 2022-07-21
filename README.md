@@ -66,7 +66,7 @@ DESENHOS INFANTIS
 <thumbnail>https://www.themoviedb.org/t/p/original/uN5eJDFF5VuL8IuPVUdjI3Oe9Yd.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Vovó aposta com um rico senhor que seu canarinho, Piu-Piu, é mais inteligente que qualquer gato. Para tanto Piu-Piu terá que dar a volta ao mundo em 80 dias, visitando países e colecionando “vistos” com as patas dos gatos. O prêmio seria usado para reabrir um parque frequentado por crianças pobres que estava sendo fechado por causa das dívidas. Nesta grande aventura Piu-Piu enfrenta além da perseguição do “gatinho”, as inesperadas alterações do tempo, porém conta a partir do Tibet com a companhia da bela canarinha Auga.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] CORAÇÃO DE FOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
