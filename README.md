@@ -741,7 +741,7 @@ Enredo: Depois que um acidente de concerto leva Dave para o hospital, Alvin, Sim
 <thumbnail>https://cosmonerd.com.br//uploads/2020/11/cosmo-disneyplus-swlego-especial-1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Rey, Finn, Poe, Chewie, Rose e todos os seus droides favoritos, de R2-D2 a BB-8 , estão reunidos para uma festa alegre no Dia da Vida.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] SCOOBY-DOO! HALLOWEEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
