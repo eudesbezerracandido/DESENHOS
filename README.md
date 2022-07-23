@@ -511,9 +511,9 @@ DESENHOS INFANTIS
 </item>
 
 <item>
-<title>[COLOR silver][B] OS SMURFS 1 2 & 3 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:954EEB3FA151CB9EB6D8D01D88D64B9EFA96FFA6$nome=OS SMURFS 1 & 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:988111EAC31EAF6769AB97585B96F7B743F4D310$nome=OS SMURFS 3</link>
+<title>[COLOR silver][B]  TRILOGIA  - OS SMURFS  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0FC12E6AC2F71B895DED6F4B88B6C6DA60B62EB0$nome=OS SMURFS DUOLOGIA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7C34B187D9F7FC054B2A1A14CA8F4CAF6BE3AA3F$nome=OS SMURFS 3</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/9157K9p7SJL._AC_SL1500_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Os espectadores de todo o mundo vão voltar a se divertir com os seres azuis e a chegada dos Smurfs ao cinema 3D na comédia para a família da Columbia Pictures/Sony Pictures Animation, misturando live-action e animação, The Smurfs. Quando o mago malvado Gargamel expulsa os pequenos seres azuis da sua vila, eles rolam do seu mundo mágico e caem no nosso – mais precisamente, bem no meio do Central Park de Nova York. Os Smurfs precisam encontrar um jeito de voltar para a vila antes que Gargamel os localize.</info>
