@@ -677,7 +677,7 @@ Rei Leão 3: Esta versão de “O Rei Leão” é explorada do ponto de vista de
 
 <item>
 <title>[COLOR silver][B] SNOOP & CHARLIE BROWN - O FILME  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C37B8C5A3D9CF10A5E2BC9A514EE2167F7F37B06</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00D3890F62DC9A0ADD708EC2CDE0FA7DD6ED37F4</link>
 <thumbnail>https://blogdojotace.com.br/wp-content/uploads/2016/04/bjc-dvd-snoopy-1.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Próximo das férias de inverno, a vida de Charlie Brown e sua turma sofre uma mudança com a chegada na cidade de uma garotinha da cabelo vermelho. Brown logo se encanta pela jovem e tenta lutar contra sua timidez e sua baixa autoestima para falar com ela. Ao mesmo tempo, Snoopy encontra uma máquina de escrever e começa a imaginar uma história pra lá de fantasiosa e heróica.</info>
