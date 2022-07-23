@@ -628,7 +628,7 @@ Rei Leão 3: Esta versão de “O Rei Leão” é explorada do ponto de vista de
 <item>
 <title>[COLOR silver][B] MORTAL KONBAT - DEFENSORES DA TERRA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7ee0a10e7f4b0abadaee74303d29fca4df38e50</link>
-<thumbnail>https://www.nordestedistribuidora.com.br/media/catalog/product/cache/1/image/600x/6dcdb3bec3b7d3d8fa2d31ce95a0090e/3/5/35478.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/bdtwE9z61eGqdfw1NnMrSwGHzyo.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A série relata as batalhas contra Shao Kahn e o seu exército, para impedir que eles dominem a terra.</info>
 </item>
@@ -669,7 +669,7 @@ Rei Leão 3: Esta versão de “O Rei Leão” é explorada do ponto de vista de
 
 <item>
 <title>[COLOR silver][B] CHARLIE BROWN & SNOOP [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72FC0348D1EE20B2D2EEB6D074F48AEC27967589</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D1E2329223136C7C4D29FB85174CE75704F286E0</link>
 <thumbnail>https://media.fstatic.com/QWchMdhvvXDLuiK8m6-4nD5Ks1s=/290x478/smart/media/movies/covers/2015/08/snoopy_t50917_lH5GmVb.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Charlie Brown é um perdedor amável, uma criança com uma infinita esperança e determinação, mas que é dominada por suas inseguranças e uma permanente má sorte, e aqueles que o cercam muitas vezes se aproveitam dele, principalmente o seu cachorro Snoopy que não tem um pingo de respeito pelo dono.</info>
