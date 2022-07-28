@@ -13,6 +13,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] AS AVENTURAS DE LUNÁTICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fde60c7763bb06595aa4f2468539ab5eb79347d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tB7lTA1JyMj1KoUBkTbwNbfzBgt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A fim de salvar sua irmã Anne desaparecida das garras do sinistro Homem Lua, Peter tem que embarcar em uma fantástica jornada para a lua. Logo ele percebe que a história maluca de Anne de falar sobre June Bug Zoomzeman, os incríveis Espíritos da Natureza e o Palácio da Fada da Noite, são mais do que apenas um sonho!</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - FLER - NENHUM LUGAR PARA CHAMAR DE LAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FTL7F66G3ALOJY6RAMYT4UEMPOKQNTZQ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eIaG0veFgAxOy9iMRohPItTmscO.jpg</thumbnail>
