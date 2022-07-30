@@ -13,6 +13,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] ATÉ OS RATOS MERECEM O CÉU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76deb0e0dac4bab5bee9a977e59719943b7c3f6a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mHGQgwbunagp0GwvyMJ2QDmkV6d.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dois inimigos mortais - um pequeno Rato e uma Raposa, após um infeliz acidente, se encontram no paraíso dos animais. Lá eles perdem seus instintos naturais e se tornam melhores amigos. Eles gostariam de permanecer juntos quando retornassem à Terra em outra vida, mas renascem em papéis opostos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AS AVENTURAS DE LUNÁTICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fde60c7763bb06595aa4f2468539ab5eb79347d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tB7lTA1JyMj1KoUBkTbwNbfzBgt.jpg</thumbnail>
