@@ -4,6 +4,31 @@ DESENHOS INFANTIS
 
 
 
+
+<item>
+<title>[COLOR silver][B] PUNKY - A LEVADA DA BRECA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>wXjE9NnrNd4</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/m0OOhvHzIOHZ5F1r2ckAY1XPKyW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Punky Brewster é uma série de desenho animado spin-off do seriado de televisão Punky, a Levada da Breca. Foi produzido pela Ruby-Spears. No Brasil, foi exibido pelo SBT, entre os anos 80 e o início dos anos 2000.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PUNKY - O RESGATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>LfUNJMTkWgw</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/m0OOhvHzIOHZ5F1r2ckAY1XPKyW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Punky Brewster é uma série de desenho animado spin-off do seriado de televisão Punky, a Levada da Breca. Foi produzido pela Ruby-Spears. No Brasil, foi exibido pelo SBT, entre os anos 80 e o início dos anos 2000.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PUNKY - O CONCURSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<utube>KTF_VaVAyhQ&list</utube>
+<thumbnail>https://www.themoviedb.org/t/p/original/m0OOhvHzIOHZ5F1r2ckAY1XPKyW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Punky Brewster é uma série de desenho animado spin-off do seriado de televisão Punky, a Levada da Breca. Foi produzido pela Ruby-Spears. No Brasil, foi exibido pelo SBT, entre os anos 80 e o início dos anos 2000.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MARMADUKE-O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ILQIVYIZDMCKGZZF2CAHQRDB2VB6GGES</link>
