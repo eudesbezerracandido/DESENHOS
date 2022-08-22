@@ -23,7 +23,7 @@ DESENHOS INFANTIS
 <thumbnail>https://www.themoviedb.org/t/p/original/ikvLmYOsYjy5qoGS9Lpu092rO6z.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A Turma do Charlie Brown está ansiosa para voltar à escola depois das férias, o que inspira Lucy a brincar de dar suas próprias aulas, até que descobre que ensinar não é assim tão fácil. “Snoopy Apresenta: A Escola da Lucy” é uma homenagem aos professores em reconhecimento ao impacto que têm em seus alunos. O especial discute o medo das mudanças e mostra como Lucy, com o apoio de seus amigos, encara e supera seus próprios medos.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] MINIONS 2- A ORIGEM DE GRU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
