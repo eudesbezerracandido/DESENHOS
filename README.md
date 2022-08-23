@@ -1,6 +1,15 @@
 # DESENHOS
 DESENHOS INFANTIS
 
+
+<item>
+<title>[COLOR silver][B] CONSTANTINE - A CASA DOS MISTÉRIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I6LCVOFXRHKE6GFEN2QJ2SWFNMZZTVL7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vKhlysJxSWt4lzuC4ScjTuOBHpO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após reescrever o tempo e impedir que a Guerra de Apokolips acontecesse, John Constantine percebe que está preso na Casa dos Mistérios enfrentando um castigo que ainda não entende</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] EU SOU GROOT 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TCY7JHX7DOICGGBGXH72KQNLSAMSDYS7</link>
