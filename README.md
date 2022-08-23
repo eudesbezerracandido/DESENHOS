@@ -47,7 +47,7 @@ DESENHOS INFANTIS
 
 <item>
 <title>[COLOR silver][B] DC SUPER PETS HDCAM DUBLADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BCW4YHJPOGAPG7CQHPUAZWV3AGVIX34K</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ER6I54N4GVVKW4CNO22W73RDVXV5Y3PN</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7hCPeAhoWfawLofQfRtUpkWVdiD.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>DC Super Pets acompanha Krypto o Supercão e Superman, amigos inseparáveis, compartilhando os mesmos superpoderes e lutando contra o crime em Metrópolis lado a lado. Quando Superman e o resto da Liga da Justiça são sequestrados, Krypto deve convencer um bando de abrigo - Ace o cão, PB o porco barrigudo, Merton a tartaruga e Chip o esquilo - a dominar seus próprios poderes recém-descobertos e ajudá-lo a resgatar os Super-heróis.</info>
