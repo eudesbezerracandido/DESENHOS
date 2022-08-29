@@ -2,6 +2,15 @@
 DESENHOS INFANTIS
 
 
+
+<item>
+<title>[COLOR silver][B] A GALINHA TURULECA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UHFGRCGZRWQL4CSRTP5EVVX2ZR5JHSZF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cf3LFFa8BSJvQnPyZhCHmKUpptX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Turuleca é uma galinha, mas não pode botar ovos. Isabel, professora de música aposentada, descobre que a galinha tem talento para a música. Turuleca se perde e acaba em um circo. Turu nunca perderá a esperança e tentará encontrar Isabel e todos seus amigos da fazenda novamente.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CONSTANTINE - A CASA DOS MISTÉRIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I6LCVOFXRHKE6GFEN2QJ2SWFNMZZTVL7</link>
