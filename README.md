@@ -4,6 +4,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] O GIGANTE DE FERRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NZ4HO32JMNWGQS232LD6PB7AIYK7JZCI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a8StQ8dmVQ94THFTrMVHuMp5QKw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1957, um robô alienígena gigante aterrissa perto da pequena cidade de Rockwell, Maine (EUA). Hogarth, um garoto de nove anos que estava explorando a área, encontra o robô e os dois ficam amigos. Mas um agente do governo completamente obcecado surge com o objetivo de destruir o extraterrestre a qualquer custo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A GALINHA TURULECA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UHFGRCGZRWQL4CSRTP5EVVX2ZR5JHSZF</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cf3LFFa8BSJvQnPyZhCHmKUpptX.jpg</thumbnail>
