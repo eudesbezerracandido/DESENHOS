@@ -60,7 +60,7 @@ DESENHOS INFANTIS
 <thumbnail>https://www.themoviedb.org/t/p/original/yRGDZI2lYTgUM3ifsoFASU5z77v.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A continuação das aventuras dos Minions, sempre em busca de um líder tirânico. Dessa vez, eles ajudam um Gru ainda criança, descobrindo como ser vilão.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] DC SUPER PETS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
