@@ -4,6 +4,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] LOVE, DEATH & ROBOTS 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:058893b33b857d4b614ff95bb8a38854df4b8bca</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rlrRI2b6RvM9I9xOBTKqcTaehkE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Criaturas aterrorizantes, surpresas bizarras e humor ácido habitam e florescem de cada um dos vários universos únicos criados para essa coletânea de curtas de animação, em que cada episódio apresenta sua própria narrativa e estilo visual.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O GIGANTE DE FERRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NZ4HO32JMNWGQS232LD6PB7AIYK7JZCI</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a8StQ8dmVQ94THFTrMVHuMp5QKw.jpg</thumbnail>
