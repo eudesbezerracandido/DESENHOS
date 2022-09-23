@@ -2,6 +2,13 @@
 DESENHOS INFANTIS
 
 
+<item>
+<title>[COLOR silver][B] POKÉMON - AS CRÔNICAS ARCEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b11340e141855cef027173d57a7c86646e1820d9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jw1Mf92X7MIRyuk3oRe92jmz31T.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ao investigarem a lenda do mítico Pokémon Arceus, Ash, Goh e Dawn descobrem uma conspiração da Equipe Galáctica que ameaça o mundo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] LOVE, DEATH & ROBOTS 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
