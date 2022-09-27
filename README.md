@@ -3,6 +3,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc56a21b0d405cdae56b190ab9b0cf351e8a55e0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wCQBzTOigP5eCyBAjQGlWYNo5DR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Esta coletânea de curtas da franquia Meu Malvado Favorito inclui mini-filmes como Rodas de Treino, Filhotinho e Amarelo é o Novo Preto.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] POKÉMON - AS CRÔNICAS ARCEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b11340e141855cef027173d57a7c86646e1820d9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jw1Mf92X7MIRyuk3oRe92jmz31T.jpg</thumbnail>
