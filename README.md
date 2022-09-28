@@ -30,11 +30,16 @@ DESENHOS INFANTIS
 </item>
 
 <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] STAR WARS REBELS 4º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15A0F51DCCDF2D32804CB4A2A94D9D83A36C622A$nome=STAR WARS 1/2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C38EA394740A1D429A5925218F029D12887207D$nome=STAR WARS 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ED7FEB791A82A89DA0797B0F5D871D009C2F4D5$nome=STAR WARS 4/6</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=STAR WARS 7 falta</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=STAR WARS 8 falta</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=STAR WARS 9/15 falta</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k2dwFxxj3lcjSkmhzM2LJmPeIwR.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info> Quarta temporada completa dublada e legendada do desenhos Star Wars Rebels. As forças Imperiais ocuparam um planeta distante, o governando com punhos de aço e estragando a vida de seus habitantes. Mas há um grupo pequeno de bravos cidadãos que decidem se revoltar contra os intermináveis Stormtroopers: os inteligentes membros da nave Fantasma. Juntos, eles encaram novos vilões, têm aventuras eletrizantes e se tornam heróis.</info>
 </item>
 
 
