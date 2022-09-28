@@ -20,11 +20,13 @@ DESENHOS INFANTIS
 </item>
 
 <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] STAR WARS REBELS 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FBD1ECE148987306097152140B3D2AB1C3722734$nome=STAR WARS 1/7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12937770968C50A81AEBD3D712D94BA7533CD579$nome=STAR WARS 8/14</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01D17D18444B3910AB3F3371883F476D3B124CBF$nome=STAR WARS 15/20</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pxMAPq5R7o3zQh5DmJ76cW5vVIu.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>Segunda temporada completa dublada e legendada do desenhos Star Wars Rebels. As forças Imperiais ocuparam um planeta distante, o governando com punhos de aço e estragando a vida de seus habitantes. Mas há um grupo pequeno de bravos cidadãos que decidem se revoltar contra os intermináveis Stormtroopers: os inteligentes membros da nave Fantasma. Juntos, eles encaram novos vilões, têm aventuras eletrizantes e se tornam heróis.</info>
 </item>
 
 <item>
