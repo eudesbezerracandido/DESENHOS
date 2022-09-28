@@ -3,7 +3,41 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] STAR WARS REBELS-A FACULHA DE UMA REBELIÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C56102149DBC1FC44F319CE6F36233893748E8C6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ApPuHAhH4wYGb4YCLChJYQvHUEF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Há muito tempo atrás em uma galáxia muito, muito distante... Contra o poder do Império Galáctico, um improvável grupo de heróis emerge para renovar a luta pela liberdade. Cinco anos antes dos eventos de Star Wars Episódio IV: Uma Nova Esperança, o reino do Império do Mal continua a impor seu controle do poder e medo por todo o cosmos. Mas mesmo em meio? tirania e a opressão destes dias escuros, um raio de luz emerge. Conheça a desorganizada tripulação da Nave Fantasma: a piloto Hera, o trombadinha Ezra, o líder da equipe Kanan, o executor alienígena Zeb, a especialista em explosivos Sabine, e Chopper, o Droid rabugento. Juntos, eles embarcam em aventuras cheias de ação, combatem vilões impiedosos, e acendem a primeira fagulha de uma rebelião contra uma onde de Stormtroopers.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] STAR WARS REBELS 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C56102149DBC1FC44F319CE6F36233893748E8C6$nome=PARTE 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:660b4dc47d8dfc5a153b0ba5a1e4e8f21b880706$nome=PARTE 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vOUxo5sfXyQPIoF8rtYK1OVVBPi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Primeira temporada completa e dublada do desenhos Star Wars Rebels. As forças Imperiais ocuparam um planeta distante, o governando com punhos de aço e estragando a vida de seus habitantes. Mas há um grupo pequeno de bravos cidadãos que decidem se revoltar contra os intermináveis Stormtroopers: os inteligentes membros da nave Fantasma. Juntos, eles encaram novos vilões, têm aventuras eletrizantes e se tornam heróis.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+
+<item>
+<title>[COLOR silver][B] CURTA DOS MINIONS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc56a21b0d405cdae56b190ab9b0cf351e8a55e0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wCQBzTOigP5eCyBAjQGlWYNo5DR.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
