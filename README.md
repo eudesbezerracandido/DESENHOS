@@ -2,6 +2,15 @@
 DESENHOS INFANTIS
 
 
+
+<item>
+<title>[COLOR silver][B] INTERGALACTIC [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JWELSSXPTUOBN3KRG7N4J4WRB7TWNTDT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fsgx4kPpvwA0GxDAU9Jwv8pLXRZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Jabari é um charmoso artista de estilo urbano à beira do verdadeiro sucesso. Depois de um encontro casual com Meadow, sua vizinha novo e gente boa que é fotógrafa, Jabari precisa descobrir se pode abrir espaço para o amor em sua vida.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] STAR WARS REBELS-A FACULHA DE UMA REBELIÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C56102149DBC1FC44F319CE6F36233893748E8C6</link>
