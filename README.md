@@ -4,6 +4,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] AS MENINAS SUPER PODEROSAS- O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NYNTQOZX7Q5GCYYCXR2DPWPYI3U34DHJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fYQIXrPHtYSSBm9IQkCuWaWEBVo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Disposto a criar as garotas perfeitas, o Prof. Utônio utilizou em sua fórmula secreta ingredientes como açúcar, tempero e um ingrediente secreto chamado Elemento X. De suas experiências nasceram Docinho, Florzinha e Lindinha, as Meninas Superpoderosas, que passaram a dedicar suas vidas a proteger a cidade de Townsville dos vilões que a atormentam periodicamente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] INTERGALACTIC [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JWELSSXPTUOBN3KRG7N4J4WRB7TWNTDT</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fsgx4kPpvwA0GxDAU9Jwv8pLXRZ.jpg</thumbnail>
