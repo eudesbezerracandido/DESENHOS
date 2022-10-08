@@ -4,6 +4,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] O LENDÁRIO CÃO GUERREIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PIT6XU2F35IADTAKMTYU2VE4UCP2OA43</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rpK3dukkvCa3E7iOPphsBGTO2dS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um cachorro desajeitado sonha um dia em ser um autêntico e legítimo samurai. O perverso vilão felino Ika Chu (Ricky Gervais) e seu capanga Ohga (George Takei) se preparam para pôr um plano terrível em prática que pode acabar com a cidade de Kakamucho. A tarefa de combater esse perigo é tomada por Hank (Michael Cera), um cachorro que sonha em ser um grande samurai. Ele acaba convencendo Jimbo (Samuel L. Jackson), um gato que outrora fora um grande guerreiro, a se tornar seu mentor, o que faz com que comece uma incrível amizade entre os dois.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AS MENINAS SUPER PODEROSAS- O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NYNTQOZX7Q5GCYYCXR2DPWPYI3U34DHJ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fYQIXrPHtYSSBm9IQkCuWaWEBVo.jpg</thumbnail>
