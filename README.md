@@ -2,6 +2,13 @@
 DESENHOS INFANTIS
 
 
+<item>
+<title>[COLOR silver][B]O MENINO MALUQUINHO 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6TNDKE6HWYBFY3IU2QEDRNHQ4TLXUUOP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/37aj7Vuci28GJz1AXiESAb74tGM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No filme mesmo que elas não saiam conforme planejado.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MORTAL KOMBAT LEGENDS-CEGUEIRA GRACIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
