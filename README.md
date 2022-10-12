@@ -4,6 +4,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] MORTAL KOMBAT LEGENDS-CEGUEIRA GRACIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YMTKWA2DFTOMYPKLTWIFMTF72QAB56FC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/psNu9P3I72GhuLrb5hFed1cvtsp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Enquanto Kano e o Black Dragon destroem o mundo, um jovem guerreiro chamado Kenshi terá que superar suas próprias limitações e enfrentar a ameaça iminente de Outworld.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O LENDÁRIO CÃO GUERREIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PIT6XU2F35IADTAKMTYU2VE4UCP2OA43</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rpK3dukkvCa3E7iOPphsBGTO2dS.jpg</thumbnail>
