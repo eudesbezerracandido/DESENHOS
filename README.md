@@ -3,6 +3,22 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] GAROTO CÓSMICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q64LU46BPC6IIJUNWGIZQCFS4SP7HZFK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fbIxOeh1Kh9dtrIY7lT3WBILSwP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cósmico (Aleph Naldi), Luna (Bianca Rayen) e Maninho (Mateus Duarte) vivem em um mundo futurista, onde as vidas são inteiramente programadas. Uma noite eles se perdem no espaço, enquanto buscam obter mais pontos para ganhar um bônus na escola. Eles então descobrem um universo infinito, esquecido num pequeno circo, onde vivem novas experiências.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LANTERNA VERDE: CUIDADO COM MEU PODER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e5f18ca6618bf1fe738c01b503d85876bcf0842</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kjfcOlpNZocBB3lbw8KHMPT9Ov4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dispensado pela Marinha, John Stewart está em uma encruzilhada em sua vida, que fica ainda complicada ao receber um anel extraterrestre que lhe concede os poderes do Lanterna Verde. Infelizmente, o anel não vem com instruções, mas vem com bagagem, como uma horda de assassinos interplanetários empenhados em eliminar todos os Lanternas Verdes do universo.Agora, com a ajuda de Arqueiro Verde, Adam Strange e Mulher-Gavião, esse soldado relutante deve viajar para o coração de uma guerra entre Rann e Thanagar, e de alguma forma ter sucesso onde todos os outros Lanternas Verdes falharam.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]O MENINO MALUQUINHO 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6TNDKE6HWYBFY3IU2QEDRNHQ4TLXUUOP</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/37aj7Vuci28GJz1AXiESAb74tGM.jpg</thumbnail>
