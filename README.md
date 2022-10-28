@@ -3,6 +3,22 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] O MUNDO DE MIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ff354e122f51d27934ba7deff605065ed4fd12a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/czkzXAtaJ09DNvmSGjsIndrXZqa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Mia descobre que sua pedra mágica faz parte de uma antiga profecia e embarca em uma emocionante aventura em Centopia. Junto com seus amigos, ela buscará um unicórnio encantado para salvar o reino.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] WENDELL E WILD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S7NN6KANCIS4NMV253NPJJBCF6C7FT6M</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Da imaginação fantástica de Henry Selick (diretor de "O Estranho Mundo de Jack" e "Coraline") e Jordan Peele ("Não! Não Olhe", "Nós", "Corra!"), surge a história de Kat (Lyric Ross), uma jovem atormentada pelo passado que precisa confrontar seus próprios demônios, Wendell e Wild (Keegan-Michael Key e Jordan Peele), para recomeçar a vida em sua cidade natal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] STAR WARS - HISTÓRIAS DO JEDI 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd9854ef73aeb41451ff084484f197736768c603</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eWPh4xteLwUjCPe70gJdvUQR9GS.jpg</thumbnail>
