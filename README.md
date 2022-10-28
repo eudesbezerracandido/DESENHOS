@@ -3,6 +3,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] STAR WARS - HISTÓRIAS DO JEDI 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd9854ef73aeb41451ff084484f197736768c603</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWPh4xteLwUjCPe70gJdvUQR9GS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Histórias sobre os Jedi numa era antes da que conhecemos. Uma jornada pela vida de dois Jedi distintos: Ahsoka Tano e Conde Dookan. Eles serão testados enquanto tomam decisões que determinarão os destinos deles.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GAROTO CÓSMICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q64LU46BPC6IIJUNWGIZQCFS4SP7HZFK</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fbIxOeh1Kh9dtrIY7lT3WBILSwP.jpg</thumbnail>
