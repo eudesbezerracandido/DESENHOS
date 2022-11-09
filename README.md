@@ -3,6 +3,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] CURTA DOS MINIONS 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e22c7ba109f36e6177d23e878cca6eb2d0b6fa6f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AuN7KfZCnm9WmZNiPeg6HUBsANz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Conheça curtas de animação como Phils Dance Party e Binky Nelson sem Chupeta nesta compilação de curtas da mesma produtora da franquia Meu Malvado Favorito. Coleção de curtas da franquia, incluindo os curtas Training Wheels, Puppy and Yellow Is the New Black.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MUNDO DE MIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ff354e122f51d27934ba7deff605065ed4fd12a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/czkzXAtaJ09DNvmSGjsIndrXZqa.jpg</thumbnail>
