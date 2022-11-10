@@ -1,6 +1,13 @@
 # DESENHOS
 DESENHOS INFANTIS
 
+<item>
+<title>[COLOR silver][B] FUTEBOL EM APUROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4FVU7MCYIOAYEFUT7SMFWECS7TJMDKYJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sWoYDNPNZs5MtzPbirXV73tIHrA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quatro superfãs de futebol se unem para ajudar seus ídolos a recuperar o talento roubado por um cientista maluco.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CURTA DOS MINIONS 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
