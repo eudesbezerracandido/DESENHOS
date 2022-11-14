@@ -1,6 +1,18 @@
 # DESENHOS
 DESENHOS INFANTIS
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] O DRAGÃO DO MEU PAI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66b456e51c4aa87c7a9ebf8212d85a60c7927b85</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bfhokk0aVLI6BRIomo2OsXwtmJl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>https://www.themoviedb.org/t/p/original/bfhokk0aVLI6BRIomo2OsXwtmJl.jpg</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] FUTEBOL EM APUROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4FVU7MCYIOAYEFUT7SMFWECS7TJMDKYJ</link>
