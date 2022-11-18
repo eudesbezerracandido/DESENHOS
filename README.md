@@ -4,6 +4,21 @@ DESENHOS INFANTIS
 
 
 
+<item>
+<title>[COLOR silver][B] TOM & JERRY- TERRA DO BONECO DE NEVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83571482784eb0f24febf40600f6c237ef865107</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yDR6w0O7QcUeEjp4DxO6NweI3Ls.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Está na hora de caçar o espírito natalício com o Tom e o Jerry! A magia paira pelo ar quando o Jerry e o seu sobrinho Tuffy criam um ratinho de neve que milagrosamente ganha vida! Para evitar que Larry o ratinho de neve derreta, Tuffy e Jerry terão de levá-lo rapidamente até à aldeia do boneco de neve. Entretanto, serão perseguidos sem tréguas pelo Tom e pelo Dr. Doublevay, que têm outros planos para a magia do Larry. Prepara-te para acelerar numa aventura épica cheia de melodias, neve, diversão, gargalhadas e até umas pitadas de magia natalícia!</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SCOOBY-DOO! GOSTOSURAS OU TRVASSURAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ECMVPMQY6ABMOQJP5O4TN4F2EHSVMSA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tkd1zT65LEFieZlIltNxcUnzGNr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na noite do Dia das Bruxas, a Máquina dos Mistérios quebrou bem no meio de uma cidade assombrada! Enquanto a turma tenta consertar a van, Scooby vai direto brincar de "gostosuras ou travessuras"! Tome cuidado com as criaturas apavorantes e ajude o Scooby a recolher o máximo de doces que puder!</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O DRAGÃO DO MEU PAI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
