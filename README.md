@@ -3,8 +3,13 @@ DESENHOS INFANTIS
 
 
 
-
-
+<item>
+<title>[COLOR silver][B] O MARAVILHOSO OUTONO DO MICKEY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7607bc5052d6bbbb2d7c8059ca878b65e8e47410</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aLVcwkgQ0nPLlE8lg0XbFxPdX5t.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Mickey Mouse e todos os seus amigos vão explorar a promessa da tão esperada primavera, através de um documentário incrível e único sobre a nossa natureza.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TOM & JERRY- TERRA DO BONECO DE NEVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
