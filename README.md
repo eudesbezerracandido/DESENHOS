@@ -2,6 +2,13 @@
 DESENHOS INFANTIS
 
 
+<item>
+<title>[COLOR silver][B] AS AVENTURAS DE TADEO- É A TÁBUA DE ESMERALDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f05344886587838d6f548fc015a9d2f6033089f6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oE3fLvRnjp7qUGzoUN9koXWk7Ha.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>adeo acidentalmente desencadeia um antigo feitiço que põe em risco a vida de seus amigos. Com todos contra ele e apenas ajudado por Sara, ele parte em uma aventura para acabar com a maldição da Múmia.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O MARAVILHOSO OUTONO DO MICKEY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
