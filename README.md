@@ -2,6 +2,24 @@
 DESENHOS INFANTIS
 
 
+
+
+<item>
+<title>[COLOR silver][B] SCROOGE: UM CONTO DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5XZBJSR5LXKXHPAZJMF6RBK2C7GFP6WN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2jR1JmDCOKbOIfTc3a9pQV36EpZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O pão-duro Ebenezer Scrooge tem uma última chance de aprender com o passado e mudar o futuro antes que a noite de Natal acabe.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O DIÁRIO DE UM BANANA: AS REGRAS DE UM RODRICK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DGB3C56WLCVNTO2MRQ77CCRHUSWBQZF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4Mwa7LdBSena8MSYWzazpEMnRWq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um novo ano letivo, seu irmão Rodrick o provoca uma e outra e outra vez. Greg conseguirá se dar bem com ele? Ou um segredo arruinará tudo?</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AS AVENTURAS DE TADEO- É A TÁBUA DE ESMERALDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f05344886587838d6f548fc015a9d2f6033089f6</link>
