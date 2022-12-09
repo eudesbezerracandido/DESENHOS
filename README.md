@@ -3,6 +3,13 @@ DESENHOS INFANTIS
 
 
 
+<item>
+<title>[COLOR silver][B] PINÓQUIO POR GUILHERME DEL TORO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f612c6c8d36b9b287a92e7335250d27d92e1f934</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x3IkO2sW4rSSVluFDz8isr6YDm8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O diretor vencedor do Oscar Guillermo del Toro juntou forças com Mark Gustafson, uma das lendas da animação em stop-motion, para recriar o conto clássico de Carlo Collodi sobre o famoso menino de madeira. Nesta fantástica obra-prima, Pinóquio embarca em uma aventura encantada que transcende mundos e revela o poder do amor.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SCROOGE: UM CONTO DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
