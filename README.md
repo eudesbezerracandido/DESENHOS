@@ -2,6 +2,15 @@
 DESENHOS INFANTIS
 
 
+
+<item>
+<title>[COLOR silver][B] IRMÃO DO JOREL-ESPECIAL DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UFIUS5K5VVPFMP33Y6WMOBH3GQ7DSQGO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hI8eTanaoXfD4BHflDEFywCTbGd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O Irmão do Jorel e Lara ajudam o musico Carlos Felino a entender qual o verdadeiro significado do Natal, já que deve entregar um novo hit natalino. É quando descobrem que alguém está trocando os presentes de Papai Noel por humildes lembrancinhas!</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UMA NOITE NO MUSEU, O RETORNO DE KAHMUNRAH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c199d28fd6f91d0e18a0bb154c26be91dec462c</link>
