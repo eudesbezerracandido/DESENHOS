@@ -2,6 +2,13 @@
 DESENHOS INFANTIS
 
 
+<item>
+<title>[COLOR silver][B] UMA NOITE NO MUSEU, O RETORNO DE KAHMUNRAH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c199d28fd6f91d0e18a0bb154c26be91dec462c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7M19SPS4iv5rP73fuUB1VF1eano.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nick Daley segue os passos do pai como guarda noturno no Museu Americano de História Natural, e já conhece a antiga placa do museu que dá vida a tudo quando o sol se põe. Mas, quando o governante maníaco Kahmunrah escapa, cabe ao Nick salvar o museu de uma vez por todas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PINÓQUIO POR GUILHERME DEL TORO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
