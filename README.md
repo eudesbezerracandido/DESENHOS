@@ -3,6 +3,15 @@ DESENHOS INFANTIS
 
 
 
+
+<item>
+<title>[COLOR silver][B] MICKEY SALVA O NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2697c951a16552eaa3089426f9538f9b73f5595d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mA9L8p26slLfDaZ3AUBXGf9JpLy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando Pluto acidentalmente leva o Papai Noel a bater seu trenó e perder todos os presentes, cabe a Mickey e seus amigos viajar para o Polo Norte e salvar o Natal.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] IRMÃO DO JOREL-ESPECIAL DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UFIUS5K5VVPFMP33Y6WMOBH3GQ7DSQGO</link>
