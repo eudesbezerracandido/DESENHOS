@@ -3,6 +3,13 @@ DESENHOS INFANTIS
 
 
 
+<item>
+<title>[COLOR silver][B] BOOGEY-UM MOSTRO ADORAVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0930da781177f223f1fa638ecc948ba96feac1c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mghRagZrG8ZGVmmc72o09k98COR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cansada de viver sob as ordens e proibições do pai, a rebelde princesa Barbara foge do palácio. Ela cai nas mãos de Buka, o monstruoso bandido da floresta, e vira-lhe a vida completamente do avesso. Barbara tenta ditar as suas próprias regras na floresta nativa dele. Sendo uma criatura selvagem, Buka odeia-a por isso. Porém, como todos sabemos, a linha que divide o ódio do amor pode ser muito ténue… Este é “Meu Querido Monstro”.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MICKEY SALVA O NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
