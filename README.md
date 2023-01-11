@@ -252,15 +252,6 @@ DESENHOS INFANTIS
 </item>
 
 <item>
-<title>[COLOR silver][B] STAR WARS- O LOTE ESTRAGADO 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OP65CIGSTIN2D42BVSAAKO7XYY3FFGRY$nome=STAR WARS 1/2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N5VPJF2KLDZOF2QTZSJ5YQ2GH63WBLKI$nome=STAR WARS 3</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/cR9tEVdi17YKwFnsF46i8xie6oo.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Meses depois dos acontecimentos em Kamino, os Mal Feitos continuam sua jornada, navegando pelo Império após a queda da República. Eles encontrarão amigos e inimigos, alguns novos, outros conhecidos, em diferentes missões mercenárias e eletrizantes que os levarão a lugares novos e perigosos.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] CURTA DOS MINIONS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc56a21b0d405cdae56b190ab9b0cf351e8a55e0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wCQBzTOigP5eCyBAjQGlWYNo5DR.jpg</thumbnail>
