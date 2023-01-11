@@ -251,6 +251,14 @@ DESENHOS INFANTIS
 <info> Quarta temporada completa dublada e legendada do desenhos Star Wars Rebels. As forças Imperiais ocuparam um planeta distante, o governando com punhos de aço e estragando a vida de seus habitantes. Mas há um grupo pequeno de bravos cidadãos que decidem se revoltar contra os intermináveis Stormtroopers: os inteligentes membros da nave Fantasma. Juntos, eles encaram novos vilões, têm aventuras eletrizantes e se tornam heróis.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] STAR WARS- O LOTE ESTRAGADO 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OP65CIGSTIN2D42BVSAAKO7XYY3FFGRY$nome=STAR WARS 1/2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N5VPJF2KLDZOF2QTZSJ5YQ2GH63WBLKI$nome=STAR WARS 3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cR9tEVdi17YKwFnsF46i8xie6oo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Meses depois dos acontecimentos em Kamino, os Mal Feitos continuam sua jornada, navegando pelo Império após a queda da República. Eles encontrarão amigos e inimigos, alguns novos, outros conhecidos, em diferentes missões mercenárias e eletrizantes que os levarão a lugares novos e perigosos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CURTA DOS MINIONS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
