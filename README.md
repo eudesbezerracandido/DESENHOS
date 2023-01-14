@@ -17,7 +17,7 @@ DESENHOS INFANTIS
 <thumbnail>https://www.themoviedb.org/t/p/original/4KXsKY8j87jr1oX2uwO1tMbl4Px.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em Mundo Estranho, A família Clade não é muito igual as outras. Eles são exploradores que desbravam novas terras e estão em uma missão para explorar um mundo estranho e não conhecido. Porém, as diferenças entre os membros da família podem por sua nova missão em risco. Jaeger Clade e seu filho Searcher são aventureiros que desbravam o deserto para explorar novos mundos. Ao tentar atravessar uma montanha que circunda a terra de Avalonia, Searcher descobre uma planta que emite energia, chamada de Pando que pode ser usada como fonte de energia para Avalonia. Porém pai e filho acabam desconcordando e um continua uma missão solo enquanto o outro usa a nova espécie para ajudar o mundo. 25 anos depois, Callisto Mal, líder de Avalonia, aparece urgentemente para informar que a Pando está perdendo seu poder. Para descobrir o que está acontecendo, a família Clade monta uma equipe especializada para ir atrás da fonte de Pando, nas suas raízes mais profundas.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] BOOGEY-UM MOSTRO ADORAVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
