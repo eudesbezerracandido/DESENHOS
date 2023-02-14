@@ -5,7 +5,7 @@ DESENHOS INFANTIS
 <item>
 <title>[COLOR silver][B] DUOLOGIA -  O GATO DE BOTAS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78a0bfeacf0b9946274ff5dbe5239bcf5355e79f$nome=O GATO DE BOTAS 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9955A8574BB60D285D3E7EAF3EF437CA0B87FABE$nome=O GATO DE BOTAS 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95aa315bccd3d7d57ff49ef43588a5c7d612eabe$nome=O GATO DE BOTAS 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rc2Sw2tnHp08j9x9UXZosDenlqF.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele queimou oito de suas nove vidas, deixando-o com apenas uma vida restante. Gato parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas.</info>
