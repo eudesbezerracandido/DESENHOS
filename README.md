@@ -2,6 +2,88 @@
 DESENHOS INFANTIS
 
 
+
+
+<item>
+<title>[COLOR silver][B] YOWAMUSHI PEDAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0145E3701E63CE356B932C143FD106BD951E6C0B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/GkqPdPsAy0lbsui7nuyHjGLJCv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Onoda Sakamichi é um estudante do primeiro ano da Escola de Ensino Médio Sohoku, é muito tímido e fã de animes. Ele bem que tentou entrar para o clube de pesquisa de anime da sua escola, mas quando conhece Imaizume Shunsuke, um ciclista que ficou conhecido ainda no ginasial, e Naruko Shoukichi, que venceu o Campeonato de Ciclismo de Kansai, Sakamichi decide se juntar ao clube de ciclismo competitivo. O que não falta são desafios, um treinamento muito rigoroso, mas com o apoio de seus amigos todo o talento de Sakamichi para o ciclismo começa a despertar... Garotos do ensino médio ultrapassam seus próprios limites e apostam tudo em suas bicicletas ao ponto de começar uma emocionante corrida de amor ao ciclismo!</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] YOWAMASHI PEDAL RE: RIDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0405102470D14183D1BACCC9297D27521B441684</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pEcUuDDJCaOHXUMgqVlzStcSY11.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Onoda Sakamichi é um estudante do primeiro ano da Escola de Ensino Médio Sohoku, é muito tímido e fã de animes. Ele bem que tentou entrar para o clube de pesquisa de anime da sua escola, mas quando conhece Imaizume Shunsuke, um ciclista que ficou conhecido ainda no ginasial, e Naruko Shoukichi, que venceu o Campeonato de Ciclismo de Kansai, Sakamichi decide se juntar ao clube de ciclismo competitivo. O que não falta são desafios, um treinamento muito rigoroso, mas com o apoio de seus amigos todo o talento de Sakamichi para o ciclismo começa a despertar... Garotos do ensino médio ultrapassam seus próprios limites e apostam tudo em suas bicicletas ao ponto de começar uma emocionante corrida de amor ao ciclismo!</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OS HERCULÓIDES 1º & 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43c49747153fcc1e96b354149f0943d6a8b81945$nome=1º TEMPORADA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9EF91C01B30F1BD789A5177F1387E098836F0CF4$nome=2º TEMPORADA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fGx7ht0yP9Jn3lNawWIllKXt24.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>É uma série animada de ficção científica, produzida pela Hanna-Barbera Productions. Foram criados pelo desenhista Alex Toth. Estreou na televisão norte-americana no dia 9 de setembro de 1967, no canal CBS, sendo exibida até 1969.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SUPERVILÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3KIARE7ZANTM5KPJQ5OVUR3M6QW7TQU5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3PAdKFvUP7iTjGAR0U4yP6xNtqe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Hank é um criminoso de terceira classe na União do Mal. Obrigado a treinar um jovem funcionário, ele é surpreendido pela ousadia do menino, que logo rouba um espetacular traje especial. O garoto escapa de seus olhos, Jolene, paixão de Hank, é sequestrada, e ele decide sair da zona de conforto para salvá-los.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LEGIÃO DOS SUPER-HERÓIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:371f4fbcd416d371f820a93f07766540bb4c3c07</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fRHNCety8AHB38OUTBKSfg5fKcY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A trama segue Supergirl, que está de luto pela perda de Krypton e lutando para se adaptar àsua nova vida na Terra. O primo de Kara, Superman, serve como mentor e sugere que ela saia para frequentar a Academia da Legião no Século 31, onde a super-heroína faz novos amigos e um novo inimigo: Brainiac 5, ao mesmo tempo que também precisa enfrentar um grupo misterioso chamado Círculo Negro enquanto procura por uma arma poderosa mantida no cofre da Academia.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] STAR WARS - THE BAD BATCH 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OP65CIGSTIN2D42BVSAAKO7XYY3FFGRY$nome=STAR WARS 1/2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N5VPJF2KLDZOF2QTZSJ5YQ2GH63WBLKI$nome=STAR WARS 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AMCYRZWC3YO4GCXT3KUENHRR4T2QWMQX$nome=STAR WARS 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z5DA4OQ5CX4ISGMYMT2W3MHZ2CC3I7ZF$nome=STAR WARS 5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VJM3STYUVCZWE3VPILI7XLSWMVJFB7FT$nome=STAR WARS 6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65EQ3H4XWMZO7J7QZSMXRJQ2EOHEJWP3$nome=STAR WARS 7/8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77005e4e0b3f1cb8322b95a3ff5b95064f889ffe$nome=STAR WARS 9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cR9tEVdi17YKwFnsF46i8xie6oo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Os membros do Bad Batch - um esquadrão único de clones que variam geneticamente de seus irmãos no Exército de Clones - cada um possui uma habilidade excepcional e singular, o que os torna soldados extraordinariamente eficazes e uma tripulação formidável. Na era pós-Guerra dos Clones, eles assumirão ousadas missões mercenárias enquanto lutam para se manter à tona e encontrar um novo propósito.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CHEBURASHKA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97C2DC46AC10763180CED2192B06E873358311BE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f6HS9vWi7QmXO8GUQkUc0Jzyt2u.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> E se Cheburashka realmente existir? E se ele não for um brinquedo de pelúcia, mas um verdadeiro animal peludo que vive em um laranjal em um país distante? E se ele se encontrar em uma pequena cidade à beira-mar e conhecer um velho pouco comunicativo que não precisa dele para nada, conhecer um menino que não fala e sua mãe, que faz um chocolate incrível, conhecer uma tia estranha que quer compre e dê para sua neta antipática e muitas, muitas outras pessoas.</info>
+</item> 
+
+<item>
+<title>[COLOR silver][B] INSPETOR ARANHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2fe52451d6d1f5671337cc7bd190db08799bf1c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2mRCD2Hn9eaeZszKc6AsFo0VAkM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O maior detetive do mundo dos insetos tem que aprender a trabalhar com uma nova parceira para desvendar um misterioso assassinato a bordo de um avião e salvar tanto o mundo dos insetos quanto o dos humanos de um perigoso vilão.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] STAR WARS- O LOTE ESTRAGADO 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OP65CIGSTIN2D42BVSAAKO7XYY3FFGRY$nome=STAR WARS 1/2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N5VPJF2KLDZOF2QTZSJ5YQ2GH63WBLKI$nome=STAR WARS 3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cR9tEVdi17YKwFnsF46i8xie6oo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Meses depois dos acontecimentos em Kamino, os Mal Feitos continuam sua jornada, navegando pelo Império após a queda da República. Eles encontrarão amigos e inimigos, alguns novos, outros conhecidos, em diferentes missões mercenárias e eletrizantes que os levarão a lugares novos e perigosos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DUOLOGIA -  O GATO DE BOTAS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78a0bfeacf0b9946274ff5dbe5239bcf5355e79f$nome=O GATO DE BOTAS 1</link>
