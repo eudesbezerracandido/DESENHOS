@@ -6,7 +6,7 @@ DESENHOS INFANTIS
 
 <item>
 <title>[COLOR silver][B] YOWAMUSHI PEDAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0145E3701E63CE356B932C143FD106BD951E6C0B</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0145E3701E63CE356B932C143FD106BD951E6C0B</link> 
 <thumbnail>https://www.themoviedb.org/t/p/original/GkqPdPsAy0lbsui7nuyHjGLJCv.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Onoda Sakamichi é um estudante do primeiro ano da Escola de Ensino Médio Sohoku, é muito tímido e fã de animes. Ele bem que tentou entrar para o clube de pesquisa de anime da sua escola, mas quando conhece Imaizume Shunsuke, um ciclista que ficou conhecido ainda no ginasial, e Naruko Shoukichi, que venceu o Campeonato de Ciclismo de Kansai, Sakamichi decide se juntar ao clube de ciclismo competitivo. O que não falta são desafios, um treinamento muito rigoroso, mas com o apoio de seus amigos todo o talento de Sakamichi para o ciclismo começa a despertar... Garotos do ensino médio ultrapassam seus próprios limites e apostam tudo em suas bicicletas ao ponto de começar uma emocionante corrida de amor ao ciclismo!</info>
