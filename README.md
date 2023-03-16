@@ -54,6 +54,10 @@ DESENHOS INFANTIS
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VJM3STYUVCZWE3VPILI7XLSWMVJFB7FT$nome=STAR WARS 6</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65EQ3H4XWMZO7J7QZSMXRJQ2EOHEJWP3$nome=STAR WARS 7/8</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77005e4e0b3f1cb8322b95a3ff5b95064f889ffe$nome=STAR WARS 9</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3SCGAQPQKLI3YL5MVPRGY4CFPEEIZDF2$nome=STAR WARS 10</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2NZHQPALAOMWE2KBADTCJF3ODZR62LX5$nome=STAR WARS 11</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TPHGYX2FRAN763ORYVVI5BFAFEA5UVEN$nome=STAR WARS 12</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PG7BZMHGNYQQVAFLLPGVGDI2XTLUBFWH$nome=STAR WARS 13</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cR9tEVdi17YKwFnsF46i8xie6oo.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Os membros do Bad Batch - um esquadrão único de clones que variam geneticamente de seus irmãos no Exército de Clones - cada um possui uma habilidade excepcional e singular, o que os torna soldados extraordinariamente eficazes e uma tripulação formidável. Na era pós-Guerra dos Clones, eles assumirão ousadas missões mercenárias enquanto lutam para se manter à tona e encontrar um novo propósito.</info>
