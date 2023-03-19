@@ -21,6 +21,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] A ELEFANTA DO MÁGICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65eabf59a855fc9174e84ba0cd46f8adfb10b9bb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g7weieVLynnkcFqOWA5WAmjffNB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>um garoto que procura por sua irmão. Peter nunca perdeu as esperanças de reencontrar sua irmã depois que ela misteriosamente desapareceu há muito tempo. Um dia na cidade, ele decide se consultar com uma vidente, que em volta diz que para encontrar sua irmã novamente, terá que encontrar um mago, que irá invocar um elefante. Então, Peter embarca em uma jornada para concluir as tarefas aparentemente impossíveis. Sua aventura mudará o destino de sua cidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OS HERCULÓIDES 1º & 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43c49747153fcc1e96b354149f0943d6a8b81945$nome=1º TEMPORADA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9EF91C01B30F1BD789A5177F1387E098836F0CF4$nome=2º TEMPORADA</link>
