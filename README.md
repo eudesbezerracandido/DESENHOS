@@ -1,8 +1,13 @@
 # DESENHOS
 DESENHOS INFANTIS
 
-
-
+<item>
+<title>[COLOR silver][B] AS MÚMIAS E O ANEL PERDIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7676cf3e48b311c6d9398f0b1de08c543d7511c1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AmfGIGm5SzcBynum9roCNSAzoyD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Acompanha as divertidas aventuras de três múmias egípcias que vivem numa cidade secreta subterrânea sob as pirâmides do antigo Egito – uma princesa, um piloto de corrida de bigas e o irmão mais novo dele, inseparável de seu bebê crocodilo de estimação. Após uma série de infelizes acasos, o trio de múmias e seu pet embarcam numa hilária e agitada jornada na Londres atual à procura de um anel ancestral, de propriedade da Família Real das Múmias, roubado pelo ambicioso arqueólogo Lorde Carnaby.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] YOWAMUSHI PEDAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
