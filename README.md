@@ -10,7 +10,7 @@ DESENHOS INFANTIS
 </item>
 
 <item>
-<title>[COLOR silver][B] SUPER MARIO BROS:O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] SUPER MARIO BROS:O FILME (HDCAM) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E5D0017A1847F97CF00ECFCD7CAC38FE0D6F8ED2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ij8sapIEbLf2g8npOu6XgsQS2w0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
