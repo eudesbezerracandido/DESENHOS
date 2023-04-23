@@ -1,6 +1,16 @@
 # DESENHOS
 DESENHOS INFANTIS
 
+
+
+<item>
+<title>[COLOR silver][B] O REI PIU-PIU  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6b9d410895c793f3593026eaa1c61f78e02d495</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Para a surpresa de todos, o Piu-Piu é o próximo na linha de sucessão da coroa. Ele está pronto para abrir suas asinhas e assumir o trono neste filme alucinante.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AS MÚMIAS E O ANEL PERDIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7676cf3e48b311c6d9398f0b1de08c543d7511c1</link>
