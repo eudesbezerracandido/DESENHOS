@@ -3,6 +3,15 @@ DESENHOS INFANTIS
 
 
 
+
+<item>
+<title>[COLOR silver][B] O FABULOSO- MAURICIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cd4338f96e3186f70df98ba3ea298eeb390b68e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qcCZnuFQv6faxbXUb9pa8Le5ujB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Esta história segue Maurice, um pateta gato malandro, que tem o golpe perfeito para ganhar dinheiro. Ele encontra um garoto de aparência burra que toca flauta e tem sua própria horda de ratos, que são estranhamente alfabetizados.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O REI PIU-PIU  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6b9d410895c793f3593026eaa1c61f78e02d495</link>
