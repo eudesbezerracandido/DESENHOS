@@ -3,6 +3,13 @@ DESENHOS INFANTIS
 
 
 
+<item>
+<title>[COLOR silver][B] ULTRAMEN 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12a437bd5ec1d136893969478624dfd5e1715f96</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7PDLAFFRGu1KZ0D2HV0hgHiypq6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Passado vários anos após a primeira série Ultraman, Shin Hayata, agora ministro da Defesa, não tem lembranças de como se tornou Ultraman e salvou o mundo dos Kaijus. Matsushiro Ide, seu ex-funcionário da Patrulha Científica, tenta ajudá-lo a recuperar suas memórias para ajudar a Patrulha Científica a eliminar novas ameaças dos alienígenas. Quando o alienígena Bemular descobre que o filho de Hayata, Shinjirou, começa a mostrar força sobre-humana, a Patrulha Científica arrisca tudo para dar a Shinjirou o ultrassecreto ultrassom para lutar contra Bemular e salvar o mundo mais uma vez.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O FABULOSO- MAURICIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
