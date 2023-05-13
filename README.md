@@ -36,11 +36,11 @@ DESENHOS INFANTIS
 </item>
 
 <item>
-<title>[COLOR silver][B] SUPER MARIO BROS:O FILME (HDCAM) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E5D0017A1847F97CF00ECFCD7CAC38FE0D6F8ED2</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ij8sapIEbLf2g8npOu6XgsQS2w0.jpg</thumbnail>
+<title>[COLOR silver][B] SUPER MARIO BROS: O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91947597c21752ac8d6b4d1b312628c3540f4c54</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i9XdxHsFrcqLkRWSF1coOHo4R39.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Mario é um filme baseado na série de video games, Super Mario Bros, da Nintendo. Em Super Mario Bros. – O Filme, Mario (Chris Pratt) é um encanador qualquer no bairro de Brooklyn junto com seu irmão Luigi (Charlie Day). Um dia, Mario e Luigi vão para no reino dos cogumelos, governado pela Princesa Peach (Anya Taylor-Joy), mas ameaçado pelo rei dos Koopas, Bowser (Jack Black), que vai fazer de tudo para conseguir reinar todos os lugares. É então quando Luigi é raptado por Bowser e o usa para procurar Mario, o único capaz de deter o Koopa e reestabelexcer a paz. Mario terá que aprender como viver nesse novo reino perigoso, passando por vários biomas, aprender a dirigir carros, utilizar itens que o fazem soltar bolas de fogo das mãos, virar um animal e andar em plataformas nada confiáveis. Também estará acompanhados de amigos, como Toad (Keegan-Michael Key) e Donkey Kong (Seth Rogan).</info>
+<info> Mario é um encanador junto com seu irmão Luigi. Um dia, eles vão parar no reino dos cogumelos, governado pela Princesa Peach, mas ameaçado pelo rei dos Koopas, que faz de tudo para conseguir reinar em todos os lugares.</info>
 </item>
 
 <item>
