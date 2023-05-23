@@ -4,6 +4,14 @@ DESENHOS INFANTIS
 
 
 <item>
+<title>[COLOR silver][B] ATTACK ON TITAN TODAS TEMPORADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f59362b3d5da2514fc9e642efbf3af2aef01273</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zMnQh4sNYySLJvSZSSJ2HGIeKw6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Séculos atrás, a humanidade foi massacrada até quase extinção por monstruosas criaturas humanóides chamadas titãs, forçando os humanos a se esconderem com medo por trás de enormes paredes concêntricas. O que torna esses gigantes verdadeiramente aterrorizantes é que seu gosto pela carne humana não nasce da fome, mas do que parece estar fora de prazer. Para garantir sua sobrevivência, os remanescentes da humanidade começaram a viver dentro de barreiras defensivas, resultando em cem anos sem um único encontro titânico. No entanto, essa frágil calma logo é destruída quando um titã colossal consegue romper a suposta impenetrável muralha externa, reacendendo a luta pela sobrevivência contra as abominações devoradoras de homens. Depois de testemunhar uma terrível perda pessoal nas mãos das criaturas invasoras, Eren Yeager dedica-se. sua vida a sua erradicação, alistando-se no Corpo de Investigação, uma unidade militar de elite que combate os humanóides impiedosos fora da proteção das paredes. Baseado no mangá premiado de Hajime Isayama, Shingeki no Kyojin segue Eren, junto com sua irmã adotiva Mikasa Ackerman e seu amigo de infância Armin Arlert, enquanto eles se juntam à brutal guerra contra os titãs e correm para descobrir uma maneira de derrotá-los antes da última paredes são violadas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ULTRAMEN 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12a437bd5ec1d136893969478624dfd5e1715f96</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7PDLAFFRGu1KZ0D2HV0hgHiypq6.jpg</thumbnail>
