@@ -3,6 +3,17 @@ DESENHOS INFANTIS
 
 
 
+<item>
+<title>[COLOR silver][B] SUPERMAN - MINHAS AVENTURAS COM SUPERMAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XEK6HRXHBJ4L5ZVOTYJ4YJLB4LTEKOYR$nome=EP.1/2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GK2STBRM42YMR2N26B7KLTA4RM533R3Z$nome=EP.3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U2BI3BFQTZGRLYDYRZT7RITRT5QPHQ5Q$nome=EP.4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EZSMZGEZXNR32BBAJBSSH3SIYWKWMMNO$nome=EP.5</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JKKUAZKUU74LATQOZFX7JOZZYXORLLJ3$nome=EP.6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jiJpmCWFvGwJd3URX8RopMOx7Bc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Minhas Aventuras Com o Superman acompanha Clark Kent, Lois Lane e Jimmy Olsen no processo de descobrir quem eles são e o que conseguem fazer enquanto salvam sua cidade de forças que conspiram para destruí-la!</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] RUBY MARINHO-MOSTRO ADOLESCENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
