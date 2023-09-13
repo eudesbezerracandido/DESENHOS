@@ -2,6 +2,37 @@
 DESENHOS INFANTIS
 
 
+<item>
+<title>[COLOR silver][B] SNOOP APRESENTA - A INIGUALÁVEL MARCI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6b1aa498f114c391d5b8435ce34dbeba8c982ad</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/grzZxk9s9EruSc0zMbcif4FUCmz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Marcie, quietinha, gentil e introvertida, pensa em ideias geniais para ajudar os amigos a atingir seus objetivos e resolver seus problemas. Mas quando o mundo todo para pra olhar e ela vira o centro das atenções, compartilhar essas ideias se torna um desafio.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LEGO DISNEY: PRINCESA AVENTURA NO CASTELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8330c3161c2a278ee883bc417862cb7edf13a4cb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tbPkvDVY06gdQlxgowQebOHQGGK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tiana, Moana, Branca de Neve, Rapunzel e Ariel acabam entrando em uma aventura ao serem inesperadamente transportadas para um castelo misterioso, mas, assim que chegam no castelo, elas descobrem que Gaston bolou um plano maligno para dominar todos os reinos. Portanto, as princesas precisarão trabalhar em conjunto para resolver os desafios escondidos pelo castelo e salvar os reinos das mãos do Gaston. Será que a coragem, o raciocínio rápido e o trabalho em equipe serão o suficiente para completarem os desafios?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AS TARTARUGAS NINJAS: CÃOS MUTANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A26318401B97C84DB4134CE85EF65DCF0E111F9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ez3IwZGBuVMVbYFcS9iftoxDjB8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> De Jogador a Corredor é a adaptação do videogame homônimo. Dirigido por Neill Blomkamp, ​​o longa também é baseado em uma história da vida real. As habilidades impressionantes de jogo de Jann Mardenborough (Archie Madekwe), um jogador adolescente do PlayStation, acostumado ao Gran Turismo no videogame, o levam a viver uma verdadeira fantasia improvável, quando ele começa a vencer uma série de competições da Nissan para se tornar um verdadeiro piloto de corrida profissional. Correndo atrás da realização de seus desejos, o jovem desafiará o impossível, encontrando a motivação necessária em um grupo que também acredita no seu potencial.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ELEMENTOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AXAFR6A5SGT2JFFNXBNAZPL5JKQSJP3V</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/88OGFOcFI04CL4uucb6I7ZzUqD6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Elementos Torrent – Elementos é um filme de animação que se passa em uma sociedade extraordinária chamada Cidade Elemento, na qual os quatro elementos da natureza – ar, terra, fogo e ar – vivem em completa harmonia. Na história, somos apresentados à Faísca (fogo, dublada por Leah Lewis), uma mulher espirituosa na faixa dos vinte anos, com um grande senso de humor e apaixonada pela família, mas que tem um temperamento um pouco quente; Gota (água, dublado por Mamoudou Athie) é um jovem empático, observador e extrovertido, que não tem medo de demonstrar suas emoções – na verdade, é até um pouco difícil controlá-las; Turrão (terra, dublado por Mason Wertheimer) é um garoto muito inteligente da terra que mora na Vila do Fogo, e está sempre perto de Faísca; e Névoa (ar, dublada por Wendi McLendon-Covey), que tem uma personalidade fofa e rosa, está sempre atenta às tendências da moda e é fã dos Windbreakers, um time de Air Ball.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] AS TARTARUGAS NINJAS: CÃOS MUTANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
