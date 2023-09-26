@@ -2,6 +2,16 @@
 DESENHOS INFANTIS
 
 
+
+
+<item>
+<title>[COLOR silver][B] SCOOBY-DOO E KRYPTO-O SUPER CÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a325b57a04ab0100817fb857da08eca66411e06</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uVBtqBJbdh04VMjfjWw4J3DjXg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando a Liga da Justiça desaparece e os vilões invadem Metrópolis, há apenas uma equipe que pode resolver esse mistério: Scooby-Doo e sua turma! Mas espere, há um novo cachorro na cidade – Krypto – o Supercão do Superman com Superpoderes. A Mistérios S/A precisará de toda a ajuda possível quando fantasmas ameaçarem a sede da Liga da Justiça. E Lex Luthor finalmente se endireitou? Ou ele está em conluio com o Coringa e a Arlequina? Os Super-Vilões da DC podem ter entrado em conflito com o Superman antes, mas agora eles estão enfrentando algo novo: uma gangue de garotos intrometidos!</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SNOOP APRESENTA - A INIGUALÁVEL MARCI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6b1aa498f114c391d5b8435ce34dbeba8c982ad</link>
