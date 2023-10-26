@@ -4,6 +4,16 @@ DESENHOS INFANTIS
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] DIVERTIDA MENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1125fddf621f008505bd4ec069a3d30398feac2e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/62SAZfLfzhxJWUFJvfIPMw6QUpE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseadas na Sala de Comando, o centro de controle dentro da mente de Riley de 11 anos, cinco emoções trabalham sem parar, lideradas pela otimista Alegria. Ela se esforça muito para garantir que Riley esteja sempre feliz, e trabalha ao lado do Medo, Raiva, Nojinho e Tristeza.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SCOOBY-DOO E KRYPTO-O SUPER CÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a325b57a04ab0100817fb857da08eca66411e06</link>
