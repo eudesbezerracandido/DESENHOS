@@ -21,6 +21,20 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] DRAGON BALL COLECTION 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5635167d1f45159e5668e6a76b38c774b238a0f$nome=SAGA DOS SAYAJINS</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfc59ce47c7c0f0edbedc357dc2458b9056f7d83$nome=SAGA FREEEZA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05f99038fd0f1fc7d81251425649642841961870$nome=SAGA GARLIC</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5f7f815ebe8a8a683744ecc47e1a32189c14a53$nome=SAGA ANDROID</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c99759c4f0accb04e2b47aa0b6d2efa5f0da5b41$nome=SAGA DE CEL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d3eb64b65edd8cc6d064f8aa327427f0b74439f$nome=SAGA TORNEIO DO OUTRO MUNDO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f971d0d48f8acaa1f425d9004fb37c2c7e18a697$nome=SAGA MAJIN BOO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1Q3yEYurriDPhWhyVV751g4LD7f.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DIVERTIDA MENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1125fddf621f008505bd4ec069a3d30398feac2e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/62SAZfLfzhxJWUFJvfIPMw6QUpE.jpg</thumbnail>
