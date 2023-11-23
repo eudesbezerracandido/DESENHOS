@@ -13,6 +13,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] DRAGON BALL Z COLECTION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1848431C87E581F9012962160AFEB95696EC464D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6rgDHyyejvhvqn28xegMOXU0Rri.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>COLEÇÃO COMPLETA DRAGON BALL Z</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DIVERTIDA MENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1125fddf621f008505bd4ec069a3d30398feac2e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/62SAZfLfzhxJWUFJvfIPMw6QUpE.jpg</thumbnail>
