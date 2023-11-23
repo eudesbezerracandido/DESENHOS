@@ -4,7 +4,13 @@ DESENHOS INFANTIS
 
 
 
-
+<item>
+<title>[COLOR silver][B] DRAGON BALL SUPER-SUPER HÉROI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af08bc670f601315369646d1a0a841bbb5444fb3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uKEwXSn9uGqbsArjlMNoe0LKXVi.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O exército Red Ribbon havia sido destruído por Son Goku... Mas certos indivíduos decidiram levar adiante sua missão e criaram os androides supremos: Gamma 1 e Gamma 2. Estes dois androides - que se intitulam super-heróis - decidem atacar Piccolo e Gohan! Qual será o objetivo do Novo Exército Red Ribbon? Quando o perigo é iminente, é então que desperta o Super-Herói.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DIVERTIDA MENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
