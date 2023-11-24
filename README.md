@@ -43,6 +43,14 @@ DESENHOS INFANTIS
 </item>
 
 <item>
+<title>[COLOR silver][B] AQUA TEEN-FOREVER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd9c2882debad63090531b3c946abf17cecb9802</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dzMfgDxEOfFdw6WIaoC94CayYWL.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O filme Aqua Teen Forever - Plantasm. Os Aqua Teens se separam e depois voltam a reunir-se para lutar contra o líder supremo do mundo corporativo favorito de todos, Amazin, liderados pelo magnata da tecnologia favorito de todos, Neil, e o seu fiel parceiro cientista, Elmer.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SCOOBY-DOO E KRYPTO-O SUPER CÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a325b57a04ab0100817fb857da08eca66411e06</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uVBtqBJbdh04VMjfjWw4J3DjXg.jpg</thumbnail>
