@@ -4,6 +4,21 @@ DESENHOS INFANTIS
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] SHREK COLECTION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05968ec30ded898b9a843975df9a192418a16ecf$nome=SHREK 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B551F0C2EB11E1E20EC73EA821A027D67171A3CD$nome=SHREK 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ABAA66E56A6DE58DD969C6D822D3C62DFC03B4D$nome=SHREK 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85FFDA800C0B47BB52864206B9E25FB2E9713196$nome=SHREK 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:994F255DB01B839D4E829844941D3C43346E3EFD$nome=TRILOGIA SHREK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dyhaB19AICF7TO7CK2aD6KfymnQ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info></info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DRAGON BALL SUPER-SUPER HÉROI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af08bc670f601315369646d1a0a841bbb5444fb3</link>
