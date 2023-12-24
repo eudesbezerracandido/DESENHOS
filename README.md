@@ -5,6 +5,23 @@ DESENHOS INFANTIS
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] WHAT lF...? 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:653b329bf000df83c97ce2cd5bbad96bb9218dd9$nome=WHAT lF...?EP.1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0342d7ed5b2d2221a1cad5d14c23d625d788efb5$nome=WHAT lF...?EP.2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdc2eed027adc16e50012c7e50ddc02220949ad0$nome=WHAT lF...?EP.3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a93105ca11e19a24e187c0d4403ab89787fb501$nome=WHAT lF...?EP.4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80e29307e6336435ac14435ebd748f56dd86b082$nome=WHAT lF...?EP.5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05b5b20c6e9c563706ec26ab910a163ba02a677a$nome=WHAT lF...?EP.6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cda8506dcbffb56df8f995948e75605eb291da84$nome=WHAT lF...?EP.7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04947089d37ee9be03fe5583f5944e1fbedf0668$nome=WHAT lF...?EP.8</link>
+<thumbnail></thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Após os eventos da primeira temporada de "Loki" culminarem na criação do Multiverso, o Vigia explora diferentes linhas do tempo, nos quais os principais momentos do Universo Cinematográfico Marvel ocorreram de forma diferente.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] FUGA DAS GALINHAS - A AMEAÇA DOS NAGGETS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6JEIBCJJVNPKHC2HKOHUIDVMGPDJHHCE</link>
