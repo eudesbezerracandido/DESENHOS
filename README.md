@@ -17,7 +17,7 @@ DESENHOS INFANTIS
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05b5b20c6e9c563706ec26ab910a163ba02a677a$nome=WHAT lF...?EP.6</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cda8506dcbffb56df8f995948e75605eb291da84$nome=WHAT lF...?EP.7</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04947089d37ee9be03fe5583f5944e1fbedf0668$nome=WHAT lF...?EP.8</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/rsTczsbhQT5qXi67mVfHCbjBfT7.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Após os eventos da primeira temporada de "Loki" culminarem na criação do Multiverso, o Vigia explora diferentes linhas do tempo, nos quais os principais momentos do Universo Cinematográfico Marvel ocorreram de forma diferente.</info>
 </item>
