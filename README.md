@@ -7,6 +7,15 @@ DESENHOS INFANTIS
 
 
 
+
+<item>
+<title>[COLOR silver][B] ÁGUIA E JAGUAR: OS GUERREIROS LENDARIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:440b4c82478085e7b37600c7b471ebad5cd1fd85</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1UnP6AtY3DHYjOVDEEF0Age7RKJ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Num futuro sedento por água, dois sobreviventes viajam no tempo em busca do poder do Deus pré-hispânico da água, mas descobrem que um implacável empresário já o controla. A irmandade Aztaya – herdeiros modernos dos guerreiros astecas e maias – une forças para frustrar o plano dele, despertando guerreiros míticos para salvá-los de um futuro sombrio.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] WHAT lF...? 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:653b329bf000df83c97ce2cd5bbad96bb9218dd9$nome=WHAT lF...?EP.1</link>
